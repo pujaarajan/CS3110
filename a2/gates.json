@@ -1,0 +1,1414 @@
+{
+  "rooms":
+  [
+    {
+      "id": "Start",
+      "description": "You're working on A2 for your favorite class, CS 3110, when you find yourself
+completely lost and confused about functional programming! (How you made it
+through A1 is an enigma...)
+
+You decide to go to Gates Hall on your quest to find inspiration. Maybe moving
+around objects inside will move you to write brilliant code. It's worth a shot,
+anyway.
+
+Type START to begin, and don't forget to check your inventory!",
+      "items": [],
+      "points": 0,
+      "exits": [
+        {
+          "direction": "start",
+          "room": "Gates Main Entrance"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Gates Main Entrance",
+      "description": "You're right outside the main entrance of Gates Hall. You're wondering why
+you're standing out here when you could go INSIDE through the two sets of glass
+double doors to the lobby.
+
+Alternatively, you could head DOWN to the ground floor entrance.",
+      "items": ["BIKE", "INSCRIPTION"],
+      "points": 0,
+      "exits": [
+        {
+          "direction": "inside",
+          "room": "Gates Main Lobby"
+        },
+        {
+          "direction": "down",
+          "room": "Outside Gates, Lower Level"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Gates Main Lobby",
+      "description": "You're standing in the middle of the Gates Hall lobby. You smell the aroma of
+coffee wafting from the SOUTH where Gimme! Coffee is. To the EAST is a corridor
+that leads further into the building, and to the NORTHEAST is the dean's office.
+
+You can also go UP or DOWN the stairs, as well as go into the ELEVATOR. Or you
+could head back OUTSIDE.",
+      "items": ["MOOD CLOUD"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "outside",
+          "room": "Gates Main Entrance"
+        },
+        {
+          "direction": "south",
+          "room": "Gimme! Coffee"
+        },
+        {
+          "direction": "east",
+          "room": "Corridor, 1st Floor"
+        },
+        {
+          "direction": "down",
+          "room": "Lobby, Ground Floor"
+        },
+        {
+          "direction": "up",
+          "room": "Near the Elevator, 2nd Floor"
+        },
+        {
+          "direction": "elevator",
+          "room": "Elevator"
+        },
+        {
+          "direction": "northeast",
+          "room": "Dean Morrisett's Office"
+        }
+      ],
+      "treasure": ["MOOD CLOUD"]
+    },
+    {
+      "id": "Dean Morrisett's Office",
+      "description": "Dean Morrisett appears to be out of office right now, so you find yourself in
+an empty office. Well, it would be empty, anyway, if it weren't for a single cow
+making its presence known by mooing in the center of the office.
+
+It's not every day you get to have one-on-one time with such a majestic
+creature, so you decide to make the best of this opportunity by spending quality
+time with the cow. Once you're done, feel free to go back SOUTHWEST to the
+lobby.",
+      "items": ["MILK"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "southwest",
+          "room": "Gates Main Lobby"
+        }
+      ],
+      "treasure": ["COWMPUTER"]
+    },
+    {
+      "id": "Gimme! Coffee",
+      "description": "The scent of coffee in the air leads you to the counter of Gimme! Coffee.
+You wonder if the ability to write good code is directly proportional to
+caffeine intake.
+
+After you're done here, you can head back NORTH to the lobby.",
+      "items": ["COFFEE", "TEA", "CROISSANT"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "north",
+          "room": "Gates Main Lobby"
+        }
+      ],
+      "treasure": ["MILK"]
+    },
+    {
+      "id": "????",
+      "description": "MMMMMMMMMMMMMMMMMMMMMMMMMMZZII?++I$$==?7++==IZ?7$88O8OMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMM8DZ+=~?I==+=?I=~=+=~++7I??+=$$D8DN8DMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMN8I+~I7I===I=++$=+I~==~OI+??++?~=+7Z78888MMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMO7?+?==??II=+I==77?Z~?=+I+77++I==?I++=+I8888MMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMI7??+??===7?++II=I?==I+=?III=+?I=II7==++?II$8NMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMI?===+=+?==~=++???+77?+?==+?7=?$~=+~~==?+=+===+DMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMN+OZZ8~~==+=~~~=~?$?+I?I?I??+$+I7I+~?~~~+===~~8ZOOIMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMM8?=7OIO8ZZ8::~++++==+++??8I++$??+=~++=~~=8O88$ZO?+?IMMMMMMMMMMMMMM
+MMMMMMMMMMMMM8+=+==???+~~~~~~~~~?+~=I++===?I=~?+~:~?::~~~:?=?==+==ZMMMMMMMMMMMMM
+MMMMMMMMMMMMZZOO88$=++~::::=~~++??~???+=+??+~++?~==~=~:::~+=?Z88OO77MMMMMMMMMMMM
+MMMMMMMMMMMM8O?++??$Z:~::~::~~=+??=+???++I?+~+??=~=~::~:::?7I?+++?88OMMMMMMMMMMM
+MMMMMMMMMMMDOOZOOZOOO::~~~=:=:=??+?+77?????7~I??7=:+~=:~~:~8ZZOOOZOOOMMMMMMMMMMM
+MMMMMMMMMMMDZ8OO$Z8O++=7++=~+=III+=$$=7??$I$7?+II8~+=~=?Z++O8ZO?ZOOZ7DMMMMMMMMMM
+MMMMMMMMMMNOO8O8O8D=+OOZ=Z77I?+7II77?~Z7+O==$7?77=Z7?+8=+=Z7888OOO88OOMMMMMMMMMM
+MMMMMMMMM8OOO88OD=87I?7$8$Z8ZOZ8M=ZO8Z$$7ZZOZZ=87Z8ZO$I8$??7+8IDOOOZOOMMMMMMMMMM
+MMMMMMMMMD8OO8888=O$Z?8D88DD88D8OZOIZ~7OO??N7OO888DDD888ZO?$$O+8OO8OOO8MMMMMMMMM
+MMMMMMMMM8OODD8D8OZI888ZOO7I?$OONNDZZ88D888Z8DNNZ7???$88O88O7IZD8888OOOMMMMMMMMM
+MMMMMMMMNOO88O8Z8$ZOO8DI+NNNNNNMZ8D8DNN8NNMDDNOONNNNNNM~788OZ$IDZOO88OOMMMMMMMMM
+MMMMMMMM8888OO$$OO888OONNNNNNNNNNNONN+~=~=$ZD8NNNDNNNNNNNI88Z8OZZZOOD888MMMMMMMM
+MMMMMMM88OOODZ7$D8D$8NNNNNNNNDNNNNNDN$~==~$NNNNNNNDDNDNNNND8+88OZ$Z8OO88MMMMMMMM
+MMMMMMM88O8O8Z$888+?8$~?MNNNNNNNN8NNN+I=~?=NDNDNNNNNNNNN+=Z8?NO8O7O88888OMMMMMMM
+MMMMMMD8ZOO8O7$O87=?+ZOO8O7$$8DDDNZ++=I~=I=+?+NDD8O$$$Z88O+=?=8OO$$Z8OOO8MMMMMMM
+MMMMMM$8ZZO8ZZO88?++?+IZO8D8?=O+Z?++++I??++++$?Z+D?7888ZOI==?+788OO$8ZO8ZOMMMMMM
+MMMMM8ZZZZZZOOOZ8Z7I+?=++ZZ7$Z$?I7++++?===++==+ZIZZ7ZZZ=++?I?$88ZO8OZOZZ8ZMMMMMM
+MMMMMZOO$$$$O88O$I$Z$OOOOOO887=~IZ+=+==+++==~~7$=?~D8OOZOOZZ$ZI7D888Z$OZZZ8MMMMM
+MMMMN8Z$OOOZOOIO88I$$$ZOZ87$+77$~?=+I?====+?++$=$=77+88O8Z$$ZOO8O7ZOZOO8$Z8MMMMM
+MMMMDOOOZOZZ8OOD?7O7OOZO?ZOIZ7??I~+~?I=+==I?=~~7~8O7IO8$OOZZI8??88$OZOOOOOODMMMM
+MMMN8ZZOZOO$8DII8$OI77?OZO?7=~II7DD88D88D88888D??7=I7?IZOI7Z7Z$O7I88ZOO$ZZO8MMMM
+MMMDO$888OZD?ZOO8?O7OZ7I$$O7=I+D?$ZZ$O8888OZ$Z?I7+7~+O7Z$7Z$O8+88O$I87OO8OZDDMMM
+MMMD8OOOOO$Z8O+OOZOO?$7$$$8==$I+I==I$+Z$7ZI?=++I777?+8$ZO$Z7ZOOO$7OO$$OOOO8ODMMM
+MMMD88O8ZO$ZOOOOOOOO77Z$78?ZI$+I+8~=?=787Z?+=D8I?=?IO=7$O7$IO8ZOOZO$O$ZOOOD8DMMM
+MMM88OZ7Z$OZ7ZO87?O$7?$Z~Z??+8ZZ$ZZZZ?I$$??ZZO$$Z8=$??I=OOII$Z?8OO7$ZOOZZOO8MMMM
+MMM8Z$7$7OZZ?Z$Z7ZZ7??7??I?=8OZ8888O888OO88888888Z8D=III?II?7OZI$Z7$8OZ7$ZZO8MMM
+MMNO7Z7$?7Z?+IOOOOO?77?Z7?+8O88Z$8ZI8ZI8$IZ8IZOZ88DO$Z++Z77?IO8OO$I+IZ$7$I778MMM
+MD87OO$ZIO=?$I7OO$Z??$O77?8ZOD8888O88O88D88888888O8$ZDZI$Z++?7OZ7$?I?7O+$?Z8$8MM
+M$88IZ$I+O7OOZ7$+++7II7?$=O+88$O8888888DD8888888ZOD878I$$?I?7Z??O7$Z7ZZ+II?7OODM
+MN$$?Z$$Z7$??IIO7I=III7Z$$O888888888888888888888888888$O7I7?ZIIIOZII?$$$I$?+$7DM
+MD7IO$$Z$8?7III=OO=7$7$ZI7O88D8D8888D8888888888D888888?7I7IO?IO8+II77?$OZZ$OIZDM
+MOOOIZ7+I??I+IZZ+$?7?I7ZZI$D$888888DO7=NO=7DD888888IDII=I7II$I$7O7+III?7+7ZI8Z8M
+MO77OZZ7+++ZI8???++7$Z+?I7OOIO8OD$+=$OO?ZOO7=~8D88878Z$I?=?I?+?II?OZI?I+7O$Z77OM
+NO8ZZOZ?I$O7II7?I77???+?I$Z?$D?~8ZZ7$$O$$Z$Z?OZO~Z8?++I??+?I+IZI?$I$OZ77$$$ZZOOM
+MOZOZ$$Z8OI7III?7$77+$?$++$77++=$IIII$II7I777I?7+?I7IZ??$?7?$I7$I$I77?O8I7$ZZZDM
+MOOZZ$ZO$$7$$ZI777I7??I?7I$77?77I+IO$IO?IO7$O7=7$??Z$$$7?II7I?Z7$OZ7$$ZZZ7OZZONM
+MMDOOZOZI$7ZOZIO7ZI7?I7$7ZI7$II?I$Z7?77ZZI7?IOII?II7I?7$7I?II$I7Z7ZZ77$7OZ$OZ8MM
+MM8OOOZ$77$Z$$7Z$7$77777$I77??$Z7$OOZ8$$77$ZOO+7ZI?I7777ZII77777$$ZZZ7Z$$OZZODMM
+MM8OOZZZ$$7ZZ$Z$I?ZZZIII?I7IO$$Z$I$$I?$8Z$++$7IZ7$$Z77III77Z7$7Z$O$7Z7$ZO7ZZO8MM
+MM888OOOZZ$$$ZZ$$ZZ7$77II$7I$Z7I7I777$OOOO77I$?77O$Z7$77777$7$7O$OZZ$$ZOZOO88DMM
+MMM888OZZ$ZZZ?$$7$ZOZ$I?7$$$$7O777O$7ZZOOZ$I$ZI7IO7$$7$II7ZZZ77?7Z$ZZZOOZO88DMMM
+MMMMM88OZZO7I7ZO$IZ$O7I777IIOZZ8ZI7$7ZOOZOZIZ7IOZZO8I77$7I7IZZ7ZZ7IIZZOZO88MMMMM
+MMMMMM888OO$$7Z+$$OZ7$IZZ77OI77$7777I7$II77777$7777$Z$ZZO7$ZOZI7$Z7Z$O8888MMMMMM
+MMMMMMMMMM888OOOZZOIZ777$7OZZOOZZZZOOOOZZ$OOOOOZOZZZO$7ZI7IZOOOZ$88888MMMMMMMMMM
+MMMMMMMMMMMMMMD+?ZO:ZII8ZZ8$ZO$Z7OO88887888888O7$$OZZDZZ8IIO$O7+?NMMMMMMMMMMMMMM",
+      "items": [],
+      "points": 0,
+      "exits": [
+        {
+          "direction": "zardoz",
+          "room": "?????"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Corridor, 1st Floor",
+      "description": "You're walking along the first floor of Gates. To the WEST lies the lobby, to
+the SOUTH you see the student services offices behind the glass wall, and to the
+NORTH you notice the mailroom. Further along are stairs to go UP or DOWN.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "west",
+          "room": "Gates Main Lobby"
+        },
+        {
+          "direction": "north",
+          "room": "Mailroom"
+        },
+        {
+          "direction": "south",
+          "room": "Student Services"
+        },
+        {
+          "direction": "down",
+          "room": "Far End of Gates, Ground Floor"
+        },
+        {
+          "direction": "up",
+          "room": "Corridor, 2nd Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Mailroom",
+      "description": "This is the faculty mailroom. There doesn't seem to be anyone here. Maybe you
+could swipe something...?
+
+(DISCLAIMER: Don't do this in real life!)
+
+Feel free to head back SOUTH to the corridor.",
+      "items": ["MAIL"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "south",
+          "room": "Corridor, 1st Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Student Services",
+      "description": "You're in the student services area, which is the place to be for all questions
+about degree requirements for CS or IS, student employment, affiliation and the
+like! Unfortunately, it's not the best place for questions about programming.
+
+NORTH of you lies the corridor from which you came.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "north",
+          "room": "Corridor, 1st Floor"
+        }
+      ],
+      "treasure": ["FORM"]
+    },
+    {
+      "id": "Lobby, Ground Floor",
+      "description": "You're in the lobby on the ground floor of Gates. Viable exits include WEST to
+lecture hall G01, NORTHEAST to a corridor, SOUTHEAST to another corridor, UP
+to the main lobby, ELEVATOR to go into the elevator, and OUTSIDE to go, well,
+outside.",
+      "items": ["PIANO"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "up",
+          "room": "Gates Main Lobby"
+        },
+        {
+          "direction": "outside",
+          "room": "Outside Gates, Lower Level"
+        },
+        {
+          "direction": "west",
+          "room": "Lecture Hall G01"
+        },
+        {
+          "direction": "southeast",
+          "room": "South Corridor, Ground Floor"
+        },
+        {
+          "direction": "northeast",
+          "room": "North Corridor, Ground Floor"
+        },
+        {
+          "direction": "elevator",
+          "room": "Elevator"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Outside Gates, Lower Level",
+      "description": "This is the entrance to the ground floor of Gates. Two of your friends, Alice
+and Bob, who are taking Cryptography, are chatting intensely nearby. You
+overhear some of their conversation.
+
+Alice asks, \"PntfclKUXlY7N5VK1ujAvJGjUY+N/6Vw+QonYKlfIYpTPB9K5yuihk96wtFzzSP1\",
+to which Bob responds, \"ouSViRqbHkc0P280UAmY/m1c80Ps5Xu84VhfdL3hwS+fWD2TuWdQvhH
+P5YMmrSj8i/jXE2xqXBrCpYkj2boZKA==\"
+
+Well, that was a waste of time. Too bad you don't have access to the secret key
+they're using. You start to wonder if your name is Eve.
+
+Anyway, maybe you should head UP the stairs to the other entrance or INSIDE the
+building.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "up",
+          "room": "Gates Main Entrance"
+        },
+        {
+          "direction": "inside",
+          "room": "Lobby, Ground Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Lecture Hall G01",
+      "description": "It seems as though you're interrupting a lecture. All the students look in your
+direction and the professor asks you if you're lost. Your face turns bright red
+as you relive painfully embarrassing memories from freshman year.
+
+Maybe you should back out quickly toward the EAST before this situation reaches
+unprecedented levels of awkward.",
+      "items": ["BACKPACK"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "east",
+          "room": "Lobby, Ground Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "South Corridor, Ground Floor",
+      "description": "Something strikes you as odd about this corridor. While taking a pause to
+comtemplate why, you realize that the door to the restroom is mysteriously
+missing! You begin to reason about the situation like a software developer:
+
+When it comes to other people using restrooms, you feel that the abstraction of
+\"walk in, walk out\" is enough to explain what's been done. You don't need to
+know all the exact details about what people do inside and how they do it
+(though you hope that their hands being washed is a postcondition upon
+exiting!).
+
+However, since there's no door, now you can see all the implementation details
+of the \"use restroom\" procedure. If only there were a way for you to hide the
+implementation details behind an interface...
+
+There's not much to do here besides heading NORTHWEST where you came from.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "northwest",
+          "room": "Lobby, Ground Floor"
+        }
+      ],
+      "treasure": ["ABSTRACTION BARRIER"]
+    },
+    {
+      "id": "North Corridor, Ground Floor",
+      "description": "This corridor is a familiar one for many undergraduate students. You see the
+tutoring rooms to your NORTH, the undergrad lounge to your SOUTH, more of the
+corridor to your EAST, and the lobby to your SOUTHWEST.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "southwest",
+          "room": "Lobby, Ground Floor"
+        },
+        {
+          "direction": "north",
+          "room": "Tutoring Room"
+        },
+        {
+          "direction": "south",
+          "room": "Undergraduate Lounge"
+        },
+        {
+          "direction": "east",
+          "room": "Further Down North Corridor, Ground Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Tutoring Room",
+      "description": "You were hoping to get some inspiration from the amazing TAs and consultants for
+3110, but instead you've stumbled into office hours for another class. On the
+whiteboard, \"CS 1110\" is written in bold letters. Below it, you see the
+following:
+
+\"...A category whose objects are the object of C and whose morphisms from C1
+to C2 are the C-morphisms from C1 to M(C2). Given f : C1 → C2 and g : C2 → C3
+in Eff(M), their composition in Eff(M) is the C-morphism f ; M(g) ; µ_C3.\"
+
+They sure teach some advanced material in 1110 these days.
+
+You recall that 3110 office hours are being held in Surge Academic Building A,
+Room 106, in the Ag Quad. Maaaaaaan. Better walk SOUTH back out then.",
+      "items": ["RECURSION"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "south",
+          "room": "North Corridor, Ground Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Undergraduate Lounge",
+      "description": "You see your 3110 classmate, Gary, sitting nearby in the undergrad lounge.
+
+\"Hey,\" you say, as you walk toward him, \"have you started A2 yet?\"
+
+He responds, \"Yeah right. I was just going to go to office hours on Thursday
+when it's due and do the whole thing there. It's just 3110, man. What's the big
+deal?\"
+
+Your heart sinks, and you quickly back NORTH away from Gary.
+
+\"All right, smell ya later,\" he calls.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "north",
+          "room": "North Corridor, Ground Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Further Down North Corridor, Ground Floor",
+      "description": "The server rooms are right in front of you, but there's no obvious way to get
+in. Other paths are WEST toward the lobby, SOUTH to the CSUG lab, and SOUTHEAST
+to the far end of the corridor.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "west",
+          "room": "North Corridor, Ground Floor"
+        },
+        {
+          "direction": "south",
+          "room": "Undergraduate Computing Lab"
+        },
+        {
+          "direction": "southeast",
+          "room": "Far End of Gates, Ground Floor"
+        },
+        {
+          "direction": "xyzzy",
+          "room": "Server Room"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Server Room",
+      "description": "Using your skills as a 1337 hax0r, you make it through the locked doors into
+the server room. As you stare at the blinking lights on the server racks, a
+message flashes in your mind: \"AES-128 base64 ilove3110\".
+
+Obvious exits are DENNIS and XYZZY.",
+      "items": [],
+      "points": 0,
+      "exits": [
+        {
+          "direction": "xyzzy",
+          "room": "Further Down North Corridor, Ground Floor"
+        },
+        {
+          "direction": "dennis",
+          "room": "Dennis"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Dennis",
+      "description": "You arrive at Dennis. He wears a sporty frock coat and a long jimberjam. He
+paces about nervously.
+
+You engage Dennis in leisurely discussion. You learn that his jimberjam was
+purchased on sale at a discount market and that he enjoys pacing about
+nervously. You become bored and begin thinking about 3110.
+
+Obvious exits are NOT_DENNIS.",
+      "items": [],
+      "points": 0,
+      "exits": [
+        {
+          "direction": "not_dennis",
+          "room": "Server Room"
+        }
+      ],
+      "treasure": ["LAMBDA"]
+    },
+    {
+      "id": "Undergraduate Computing Lab",
+      "description": "This is the place where the brightest young computer scientists turn coffee and
+ramen into code! The symphony of click-clacks floods your ears as you walk to
+one of glass rooms where you see your friend Xavier working.
+
+\"Hey dude,\" Xavier looks up at you with reddish eyes, \"I stayed up all night
+yesterday working on my formally verified C compiler. You'd think it'd be easy,
+but it's not as simple as it sounds.\"
+
+You pretend to agree and offer to get him some tea.
+
+\"Thanks man. Just drop it here when you get the chance.\"
+
+You can go out NORTH to the corridor or EAST to the far end of the building.",
+      "items": ["COWMPUTER"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "north",
+          "room": "Further Down North Corridor, Ground Floor"
+        },
+        {
+          "direction": "east",
+          "room": "Far End of Gates, Ground Floor"
+        }
+      ],
+      "treasure": ["TEA"]
+    },
+    {
+      "id": "Far End of Gates, Ground Floor",
+      "description": "You're in the easternmost end of the corridor. There's a vending machine
+sitting nearby where you can purchase \"healthy\" snacks at a \"modest\" price.
+Possible exits are NORTHWEST to the rest of the corridor, WEST into the computer
+lab, or UP through the stairs.",
+      "items": ["CHIPS", "CANDY"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "northwest",
+          "room": "Further Down North Corridor, Ground Floor"
+        },
+        {
+          "direction": "west",
+          "room": "Undergraduate Computing Lab"
+        },
+        {
+          "direction": "up",
+          "room": "Corridor, 1st Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "?????",
+      "description": "....,,:,:::::::~::~~:=~==~:~~=OOOZOZZZ?:~=~.:==~:=+~~~~~:::,~+++=+~~~=+::+==~~~:
+...........,,,,,,,:::::::~:~:N==77I7?78O~~:::::~~~=~,::,::~~=~=+=?+==~~~=~~+~:~=
+.....................,,,,,,.D~===~:,:::O8::::~~~~~~~::::::~===~=++=~~~~~==~::+++
+.......................,,,,ID+?++=~~:~~=D,,::,,:::::::,,:::::~=~~~~~==~=~:::=~~~
+...........................D8$7+===:=?+$8+..,......,,.,,.,:~~=~:,:~~+=::::~=~:=~
+..........................:D$ZOD8IZDD$:88Z....,,,,,,,,,,,,.,,,,,,,,,::~:::,:=~:~
+...........................$ZI?7I~I7I7=D8I...,,...,.....,,,,,.,,.........,,.,,,,
+...........................:87=I+~I~==Z8D...........,........,,,,...............
+............................$7OD887I??ZI:...............,,,,....................
+.........................:+.I$77Z7?D+8.............,,,,,.,......................
+    ....................ZZ$ZIZ$??+?$$88.....................,,..................
+............ .....,::~~:O7$OZ$$Z$$I?N8Z.........................................
+........... ...~:,::::~~?$ZZO77Z$7?O$NO:........................................
+.............,+=~:,::::~~?$OOZ?I77ZZZD87,.......................................
+............,+==~~::~==~+=$OZ$$I$Z$OZ8DO::,,....................................
+........... +++=~~~:~~~~==+OZ77Z7OIZ?D8D:~,,,,..................................
+...........:++?+=~~~~===+=++OZIO7Z$~?Z8D~:,,,,,.................................
+..........,?+??++==~=~~++????$ZOI7=++=7D7,,:,::.................................
+..........I???=+?7==+II?I77Z7O?$$==:??7D88$==::,................................
+.........?????++$7++?????IO7O$Z8O7I~I7ZD88O$I:~~................................
+.........7I???+?DI+III=I7O7$8IZOOZII$?8DDDD8ZI~:................................
+........,I7????Z$I7IIZ7I77$O$$O?ZO$?I?$DDDDDZ+~:................................
+........7II??+I,ZI??I7ZZO7O8=Z88$OO7III?7OD88Z~,................................
+.......:77III?+.ZI++++?$7$OZI$IZ=ZO$7I77?$8Z8+~~................................
+.......?7II77$..=I?===7$$8$7=+?~=$$O$$7II$ZZI==~:...............................
+.,...,.I????$.,.,I??+=O7O8=+=??~~~D+ZO=+I.8I$+=~=...............................
+......+???II7...Z+?+?7$$8I=++I+=~==O$$7=+.Z7I?=+=,..............................
+......7II?I7...?$$7I$$ZZ??II?$??===+$$$?77.Z7I~===..............................
+,,...:7II?I7.,.I7$7IZOOZIIIII$II+++~ZOZZI7=:$7=:++=.............................
+.....?7III7~...?OZ$=?$=77II7IZI7I??=87$=:O..ZI7+~++=............................
+.,...7IIII$.....8Z$7777$$7II7O7I?I?=I7I?I$,.=7I?=~+=+...........................
+.....$77II=.....,OZ77$I777II7887??==?7?7I~...+7I+=~?+=,.........................
+.....$7?I$..,....I77$777IIII?=?++I+~?OZ~:~....+7I==~?==,........................
+....,Z77I+.......8Z7$$IIIIII?I7??I?=I7I,~~.....~$I?=~==+........................
+.....$7I7,.......OZZZ7OOO8O$$ZO$II7?D77O7I......,ZI+~~+++,......................
+....,$7I$.......OZOO87ZZZZZZZZZZOZZZ$IZ$$7........?7I+=+?+,,....................
+....+I7??.......OZZZOOOZOOOOZZOZOZ$O77ZZ$I=..........$I?==?:,...................
+....?7I?+.......O$8I?ZZZZOZZZZZZZ$ZO7,.,7$Z...........~7??+==~~~:..,............
+....:7I?=......,8I:~=ZOZZOZZZZZZZ$$O$:,,,.==............?7?I?+??$:..8$Z~........
+...,=7??=~.....+++~~:7$ZZZZZZ$$$$ZZZ=::,,.::..............7?IZ$?$:O$7II~I ......
+....I????==....??=~==~ZZZ$ZOZZ$$Z$OZ=~,::,,:..............,7O8+~+~$$7OO$$~......
+....+??+?7=,...ZI+~===~ZZZZZ$$$$ZZZ+~~:~,:::~...............78,I~I=??7?+:?Z,....
+....$??==~~:,.~7I++~+++=7OOOZZ$Z$O?I?=+=:::~+...............,.+?,...:.,....:I,..
+..,.=I$=,,O...+II?++++?+I7OOZZZZO7I??++=+~~~~:...............................+==
+.....=$II,.,..?7II+++?+?I7$OOOOZ$777I+??=~~=~=.................................7
+.,......:+....7$7I???III777I:..Z7777??I?++==+=+.................................
+............,.$$777III7777II....Z777I7II??=+=++.................................
+............,.$777777I777I$.....~$7777I7I??I?=?M,...............................
+.........,,..:$$777II77$$$,......+777777I?I??I$D:...............................
+......,,.....?77$7777$77$,........?$Z$$77IIII$OO?...............................
+....,,,,.....$8$$$777$$$Z8O$......N8OZZZ7$77ZOO$$...............................
+.,,,.,,,.....ZD8OZ$7ZZZODD88.,....ZZ8DD8DDD888ZZO...............................
+.,,,,,,,....:ODDD88OOOZ8D8D8+......88DDD88DD88OOZ,..............................
+...,....,...I8D8DDD8DDDD8D8=........DD8DD88D888OO:..............................
+,,,,,,,,,,..88DDD8DDD8D888.........,.DDD88D88888OZ .............................
+,,,........ DDDDDD8D888OD.,.......,,.~8D8888DDOOO$~.............................
+..,,,,,,,...8DDDDD8DDDOD:.............IO88DDDD8OZ77.............................
+.....,,,..,.88DD8D8D888?...............OODD8D888O7~.............................
+,,,,,,,,...=ODD88DD88D,,......,.........D8888888DZ..............................
+....,,,,...8DDDD8OOO?....................~8D8888O$O.............................
+...,,,,,,,.88D88DD8D...,.........,........IO888DOZZ.............................
+,,,,..,,..=OD8DDD8OZ......................~8DD88OZ$=............................
+.,,,,,,...?88DD88OO$.......................88D888OZI............................
+.,,,,.,...7O888888D...,.................,..+8888OOZ?............................",
+      "items": [],
+      "points": 0,
+      "exits": [
+        {
+          "direction": "zed",
+          "room": "??????"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Near the Elevator, 2nd Floor",
+      "description": "You're in front of the ELEVATOR, and you can also go UP or DOWN the stairs. Also
+to the SOUTHEAST is a corridor. The other areas on the 2nd floor aren't much
+help on your quest to achieve 3110 enlightenment, unfortunately.",
+      "items": ["POSTER"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "down",
+          "room": "Gates Main Lobby"
+        },
+        {
+          "direction": "southeast",
+          "room": "Corridor, 2nd Floor"
+        },
+        {
+          "direction": "up",
+          "room": "Near the Elevator, 3rd Floor"
+        },
+        {
+          "direction": "elevator",
+          "room": "Elevator"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Corridor, 2nd Floor",
+      "description": "You're walking along the second floor of Gates. You see your friends Roger and
+Robin sitting at a table nearby. It seems like they're working some kind of
+project.
+
+\"Hey guys,\" you greet, \"what are you working on?\"
+
+\"Oh, just researching a new type inference algorithm,\" responds Roger.
+
+Robin chimes in, \"Yeah, it'll be a great addition for the programming language
+I'm designing.\"
+
+You have some really smart friends.
+
+\"We've been working on this for hours and haven't had any food yet though,\" adds
+Roger, \"You got any food on you? We'll pay you back.\"
+
+Maybe you should go find them some food. Hopefully they'll put you as the 12th
+author on their inevitably successful research paper if you do.
+
+To the NORTHWEST lie the stairs and elevator, and to the NORTH is the homework
+handback room.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "northwest",
+          "room": "Near the Elevator, 2nd Floor"
+        },
+        {
+          "direction": "north",
+          "room": "Homework Handback Room"
+        },
+        {
+          "direction": "down",
+          "room": "Corridor, 1st Floor"
+        }
+      ],
+      "treasure": ["CROISSANT", "CHIPS", "CANDY"]
+    },
+    {
+      "id": "Homework Handback Room",
+      "description": "This is where you pick up graded homework and exams. You haven't taken a 3110
+prelim yet though (but you can't wait!).
+
+Head SOUTH to exit the room.",
+      "items": ["FINAL"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "south",
+          "room": "Corridor, 2nd Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "???????",
+      "description": "\"You have succeeded, my child,\" the great Zardoz bellows, \"I shall bestow upon
+you the greatest knowledge of all: the lambda. May you use it well.\"
+
+You see a bright LIGHT in the distance that you can float toward. Before you
+follow it, however, make sure not to leave anything important behind!",
+      "items": ["LAMBDA"],
+      "points": 0,
+      "exits": [
+        {
+          "direction": "light",
+          "room": "Prof. Clarkson's Office (again)"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Near the Elevator, 3rd Floor",
+      "description": "There's not much related to 3110 in the north side of this floor, but you do see
+Prof. Constable's office to the SOUTH and a lounge area to the SOUTHWEST.
+
+Alternatively, you can go UP or DOWN the stairs or into the ELEVATOR.",
+      "items": ["FABRIC"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "down",
+          "room": "Near the Elevator, 2nd Floor"
+        },
+        {
+          "direction": "south",
+          "room": "Prof. Constable's Office"
+        },
+        {
+          "direction": "southwest",
+          "room": "Lounge, 3rd Floor"
+        },
+        {
+          "direction": "elevator",
+          "room": "Elevator"
+        },
+        {
+          "direction": "up",
+          "room": "Near the Elevator, 4th Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Prof. Constable's Office",
+      "description": "His door was open, so you walked in, but it doesn't seem like Prof. Constable's
+in right now. As you linger in his office, you begin to daydream about dependent
+types.
+
+Exit NORTH when you're done here.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "north",
+          "room": "Near the Elevator, 3rd Floor"
+        }
+      ],
+      "treasure": ["INSCRIPTION", "PORTRAIT"]
+    },
+    {
+      "id": "Lounge, 3rd Floor",
+      "description": "There's a nice open space here for students to work and relax. You sit down in
+an open seat, and you notice that the person next to you is writing OCaml code.
+
+\"Hey, are you in 3110?\" you inquire.
+
+\"Yeah,\" he replies, \"I'm trying to finish up A1. By the way, do you know how to
+plus two strings to make one big string in OCaml?\"
+
+You haven't got to heart to tell him that the hard deadline for A1 has already
+passed.
+
+\"Oh, just use the caret instead of the plus,\" you respond.
+
+He nods graciously and goes back to purely coding in utop.
+
+Perhaps there are other ways to help the poor guy out.
+
+You can go NORTHEAST from here to head back toward the elevator and stairs.",
+      "items": ["FORM", "FOOSBALL TABLE"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "northeast",
+          "room": "Near the Elevator, 3rd Floor"
+        }
+      ],
+      "treasure": ["FOOSBALL TABLE"]
+    },
+    {
+      "id": "Elevator",
+      "description": "You are encased in metal. Possible exits include GROUND, 1ST, 2ND, 3RD, and 4TH.
+You should make a decision quickly before you succumb to claustrophobia.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "ground",
+          "room": "Lobby, Ground Floor"
+        },
+        {
+          "direction": "1st",
+          "room": "Gates Main Lobby"
+        },
+        {
+          "direction": "2nd",
+          "room": "Near the Elevator, 2nd Floor"
+        },
+        {
+          "direction": "3rd",
+          "room": "Near the Elevator, 3rd Floor"
+        },
+        {
+          "direction": "4th",
+          "room": "Near the Elevator, 4th Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "???",
+      "description": "You find yourself floating in nothingness. What just happened...?
+
+After taking a moment to come to your senses, you see a giant stone head
+floating before you. That's right--you called out for Zardoz and he hath come.
+He demands that you identify the following images and promises you great rewards
+if you do so successfully.
+
+After verifying that there's no way out of this situation, you agree to his
+terms. Type START to begin...",
+      "items": [],
+      "points": 0,
+      "exits": [
+        {
+          "direction": "start",
+          "room": "????"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Near the Elevator, 4th Floor",
+      "description": "You recognize a fellow 3110 classmate who's sitting at a table typing on her
+computer.
+
+\"Arrgh, I shouldn't be using a loop here but I can't think of any other way,\"
+she grumbles.
+
+Perhaps you could suggest an idea to her somehow...
+
+As usual, you can go into the ELEVATOR or DOWN the stairs. There are also
+corridors to your WEST, NORTHEAST, and SOUTHEAST.",
+      "items": ["TANGY"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "elevator",
+          "room": "Elevator"
+        },
+        {
+          "direction": "down",
+          "room": "Near the Elevator, 3rd Floor"
+        },
+        {
+          "direction": "west",
+          "room": "West Corridor, 4th Floor"
+        },
+        {
+          "direction": "northeast",
+          "room": "North Corridor, 4th Floor"
+        },
+        {
+          "direction": "southeast",
+          "room": "South Corridor, 4th Floor"
+        }
+      ],
+      "treasure": ["RECURSION"]
+    },
+    {
+      "id": "West Corridor, 4th Floor",
+      "description": "You see the portraits of all the Computer Science Department Chairs, past and
+present, lined up on the wall. You take a moment to bask in their presence and
+hope that you'll pick up some of their wisdom by osmosis.
+
+Head back EAST when you feel like you've absorbed enough wisdom.",
+      "items": ["PORTRAIT"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "east",
+          "room": "Near the Elevator, 4th Floor"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "North Corridor, 4th Floor",
+      "description": "There's a student here who seems a little out of place. He approaches you with
+a look of curiosity in his eyes, and says, \"Excuse me, is this Kennedy Hall?\"
+
+You kindly explain to him that he's in Gates Hall.
+
+\"Oh, that explains why I didn't understand anything in the lecture I went to,\"
+he mutters, \"It seems I've lost my backpack too. Do you know where I can find
+one of those?\"
+
+His lack of concern worries you, and you decide to leave the spaced-out boy
+alone before you catch whatever he's afflicted with. Duck into Prof. George's
+office to the NORTH or leave immediately toward the SOUTHWEST or the SOUTHEAST.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "southwest",
+          "room": "Near the Elevator, 4th Floor"
+        },
+        {
+          "direction": "southeast",
+          "room": "East Corridor, 4th Floor"
+        },
+        {
+          "direction": "north",
+          "room": "Prof. George's Office"
+        }
+      ],
+      "treasure": ["BACKPACK"]
+    },
+    {
+      "id": "Prof. George's Office",
+      "description": "You see Prof. George helping students with CS 2800 material. For some reason,
+you can't remember whether you're taking 2800 now or whether you've already
+taken it, but considering that it's a corequisite for 3110, it couldn't hurt to
+listen in.
+
+They seem to be discussing the undecidability of the halting problem. Once Prof.
+George finishes his explanation, he asks, \"Can anyone name another undecidable
+problem?\"
+
+Your hand shoots up into the air before you can think. Prof. George looks in
+your direction, but before he can even call on you, you blurt out, \"Has anyone
+really been far even as decided to use even go want to do look more like?\"
+
+Silence fills the room. You're not sure what made you think saying that was a
+good idea. Then, laughter ensues.
+
+\"Um, yes, I suppose that is undecidable, in its own way,\" Prof. George chuckles,
+\"That's not quite what I had in mind though.\"
+
+You feel like this would be a good time to bow and gracefully exit stage SOUTH.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "south",
+          "room": "North Corridor, 4th Floor"
+        }
+      ],
+      "treasure": ["TANGY", "FABRIC"]
+    },
+    {
+      "id": "East Corridor, 4th Floor",
+      "description": "You see an angry student stomping her feet in front of Prof. Gries's door.
+
+\"What's the matter?\" you inquire.
+
+\"Grr, I got an A in 2110,\" she fumes, \"but I deserve an A+!! I swear my final
+was graded wrong! I got every problem correct!\"
+
+\"Do you have the exam on you?\"
+
+\"Um, no, but I aced that exam! For sure! 100%!\" she growls back.
+
+You think it'd be best to let her seethe in peace. To the EAST is Prof.
+Clarkson's office, and to the NORTHWEST and SOUTHWEST are other corridors.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "northwest",
+          "room": "North Corridor, 4th Floor"
+        },
+        {
+          "direction": "east",
+          "room": "Prof. Clarkson's Office"
+        },
+        {
+          "direction": "southwest",
+          "room": "South Corridor, 4th Floor"
+        }
+      ],
+      "treasure": ["FINAL"]
+    },
+    {
+      "id": "Prof. Clarkson's Office",
+      "description": "Brimming with 3110 curiosity, you glide into Prof. Clarkson's office. He
+welcomes you warmly and offers you a seat. As you sit, you notice a sign that
+says \"Think\" toward your right, so you ruminate on what question to ask him.
+After what seems to be an eternity of silence, you home in on the perfect
+question: \"Why do you love functional programming?\"
+
+Prof. Clarkson smiles, takes a deep breath, and starts: \"That's a great
+question! To answer that, we'll have to go all the way back to the beginning.
+In the 1930's, Alonzo Church formulated what we now know as untyped lambda
+calculus...\"
+
+As you absorb all this information, you feel as if spacetime is distorting
+around you and this office.
+
+\"...so that's why functional programming is so great,\" Prof. Clarkson concludes.
+You can't shake the feeling that you've been transported through a wormhole
+somehow, but you definitely feel wiser and closer to enlightenment.
+
+After you've confirmed that you're still on the same plane of existence as you
+were before you walked in, head WEST to exit the office.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "west",
+          "room": "East Corridor, 4th Floor"
+        },
+        {
+          "direction": "zardoz",
+          "room": "???"
+        }
+      ],
+      "treasure": ["MAIL", "PIANO", "COMPANION CUBE"]
+    },
+    {
+      "id": "Prof. Clarkson's Office (again)",
+      "description": "\"Hey, are you awake?\" you hear a voice say, \"You should really be sleeping
+somewhere more comfortable than my office, you know. I don't even have a couch
+here, unlike some other professors.\"
+
+You rub your eyes and sit up straight. Prof. Clarkson is looking at you with
+concern in his eyes. Looks like you fell asleep somehow. \"Sorry,\" you yawn in
+response.
+
+\"It's okay, I just wanted to make sure you were fine. I know that 3110 takes a
+lot out of you guys.\"
+
+You nod groggily. Your bag feels a little bit heavier and your brain feels a
+little bit brighter. \"You've given me a lot of ideas to think about,\" you tell
+him, \"Thanks.\"
+
+Prof. Clarkson flashes a smile at you and then swivels back to his computer.
+Take a minute to process everything you've experienced and then head out through
+the door toward the WEST.
+
+(WARNING: Because this is a special event, dropping items right now is not
+recommended! Reenter this office if you need to.)",
+      "items": [],
+      "points": 0,
+      "exits": [
+        {
+          "direction": "west",
+          "room": "East Corridor, 4th Floor"
+        }
+      ],
+      "treasure": ["MAIL", "PIANO", "COMPANION CUBE"]
+    },
+    {
+      "id": "??????",
+      "description": "...............................,~Z:+OZ7+I$.~$...................................
+.........................,DMOD888DNOOODD8ODO888O88=~............................
+.....................~IMZD88DD8D8D88DO8O88DZ8DDO88D8O8$?........................
+....................ZMND88ND888N8OO7888DDO88DDDODD888ZDDDO,.....................
+................,+NOD8DNDDDD8D888DOO8NDDODNO8N888O8ON8ODD8ZZ7,,.................
+...............~D8DDNDDNDDDD88DDDDMN8D8ZDDDOOD88DDDD888ODDN88DO:................
+.............8ZND8DNDD8DDDDNDDD8DOOO8Z$$Z8ODO$ZOO888ON8DDNNDN8DO~...............
+............,8DD8DNDDDND8DDNNNDD8888D8ZZ$OZZZOOZOZO8OND8888D8NDD8=..............
+..........=ZDDDDND8NDD8DNNDDDNDD88DDD8OOOOOZZZO7OOZOO888OOD8D8DD88=.............
+.........=NNDD88DNNDDDDDDDDDDDDDNNODDDDDDOOZO$Z$$7I$$OZZO8DO8OO8DDZ?,...........
+,.......MO8D8D88N888888DD8NNNNDNODNNDDD8OOOOZOZZZO?7Z7$Z7O888OZ888D7=...........
+~,.....+DDD8D88DO88ODNNNNNNDDDD88888O88OZZ$7I7I?I??7II??7$ZO$ZO88O888...........
+?=,,..+88N8D8D88OONNDD888OOOOZZZ$$7777I???+++++===+==~==+=?$7ZZZZZ$88$=.........
+$7=:,:D88D8DO8DDDDD8OOZZ$$$777IIIII????+++======~~~~~~~~=~~=+7I8$7$?8O+.........
+$7I=:8O8DD888DDDNDOZZ$$$777IIIII??????++++====~~~~~:~::~~~:~~+7ODZZI?OO~........
+$$7I?OO8D888NDDD8Z$$7777IIIIII??????++++++==~~~~~~:::::::::::~=7OIZ8ZZ88........
+$$77ZOD8DDNN8DD8Z$7IIIIIIII?I???????++++++=+=~~~~~~:::::::::::~~ZI$88?O8+.......
+$$$$O88DDNN8D88O77IIIIII?IIII?????+++++++++===~~~~~:::::::::,:::+7$OO87O$,.....,
+$$$$O88DNNNDD8OZ7IIIIIIII?I???????+++++++++===~~~~:::::::::::,,::=I+DZZIOI...,,,
+$$$$OODNNNNDDOZ$7IIIII??????????+++++++++++=+=~~~~:::::::::::,,::~?+?O7$$$,.,,::
+$$$$O8DNNNNDDOZ7IIIIIIII?????????+++++++++++==~~~~:::::::::,,,,,,:=?+$Z$Z7:,,,::
+$$$$Z8DNNNND8OZ7IIIIIII????????????+++++++++===~~~~::::::::::,,,,:~+?OZOO7=,,,::
+Z$$7OD8NNNDD8O$77IIIIIII?IIIII???I????++?++++==~~~~~::::,::,,,,,,,~=?I$7Z7,,,::~
+ZZ$788DDNNNNDZ77IIIIIIIIIII?IIIIIII7I?????++++===~~~~::::::,,,,,,,~++I$Z$I=,,:~~
+ZZ$$$8DDNNND8$7IIIIIIIIIIII???II7777III??+?+?+=+=+===~~~~~::,,,,,,:=7?IO$I~:::~+
+Z$77$DDDNNDDO7IIIII77$ZZZZZZZ$$$7$7$777II?III7777$ZZZ$$7+++=~,,,,,:=?+I7I7=~~~=I
+$$I?Z8DDDNNDZIII777$$OZOO88DDDDD88OZZ$$77III7$$$ZZOOOOZ$7I?==~:,,,,:+?III7I???I$
+77?+?88DDDDD$III77$$OOOOZZZZZOO88888OZ$7?++++??I7$Z$7III$I+==~~:,,,:++777?Z$$$ZO
+77?+?88DDDD8$II77$$ZZZZZZ$$$$ZZZZOO8OZ$I+~~==+I7$$Z$7?=~~=I?=~~~:,,,=+I?7?OOOOOO
+$$7II8DDDDOO7III$ZOZ$$$ZZZ$ZZ$$Z$$ZOOZ$I=::~=IZOI7$$$7~~:~I=~::=8=,,=+I7??=OOOOO
+$$I?7$ODD8DO7II$$II7ZZOZ8ODD88I8Z$$ZOZ$I+==~=??$$$ZZOD?=O+~?~,,,:$,:~II7~:,::OOO
+Z$I$$7$ZNDOO8DO8III7$O88OZ888?7ZOZ$Z$8DZ?=I$N~+?ZZ$7$O8==?7+~:,,,I88O$7+:+Z$=8OO
+Z78888O$ZO8$7$$87777$$$$Z$$$$$ZZZZ$8ZO$I+~:=+7=?$$Z7I+=~~~::~::,:7,::+==~:$7I8OO
+Z$O88ZZOZZOI777ZI7777777$$$$77$$$$88D$7I=~::~Z$==?I??+++=~::::,,+8,,,?=+~,$7?8OO
+$$ZOO$$$$ZO7777IOIIIIIIII7777777$$Z8O$7I=~:::??+==~=++==~~~:::,,?$,::I=+~:ZI=OOO
+$$$OO$$ZZOO777778=II7IIIIIII77777$OOZ77I+~::::$~+==~====~~~::,,:M,,::Z7I+~$?+OOO
+777$Z$ZOO8Z7777777D$IIIII7I7777778OOO7I?+=:::~+I$7==~~~~~:~=II~,,,,::$$7I=?~8OOO
+7I77$$ZO88777777777777IIII777$$$ZOOZ$7I?=~::::~=?++===~=~~:::::::::::+III==Z8OOO
+I?I7$$$ZOO7777777777IIIIIII77$$$ZO7$ZZ$$I+~~~:::?II++==~~~::::::,::::~I7+~~D8OOO
+I??7$$7ZOO7777$$77777IIIIII77$$ZZ$7ZOOOO7?+++~::+I7I?+==~~::::,,:::::~7+:==888OO
+7II7$$Z$777777777777777I7I77$$$$ZOO8NNDOO$+DD$?+=?777??==~:::::,::::::=,I=D8888O
+Z$$$$$$$$777777$$77777777777$$$$$ZO88OOOZ?+=?7I+==+I77I?==~:::::::::::~,=:88888O
+OOZZZ$$$II7777777777$777777777777$$$$Z$$$7=~~~~~~==+?77?+=~~::::::::::~:,=8888OO
+OZZZZ$$77I77777777$$$$$777777II777$777II7$?~::~~~~~~=?II+==~~::::::::::~,$8888OO
+ZZZZZZZZ?$7777777777$$777$777777777I7I+=III~~:~~~~~~~~~++=~~~::::::::+::7888888O
+OOOOOOOOZOO77$77777777777$$$$$777I777$7I=??===~:::~~=+=~===~~::::::::Z$D8888888O
+OO888OOOOOZ77$77777$$77$77$$$Z$$$$ZZZZZZ$I???+++=~:~=?+===~~:::::::::D8888888888
+OOO888OOOOZ777777777$$7777$$Z8888O888O8O$??$$77I?I??77?+=~~~~:::::::$DD888888888
+OOOOOOOOZZZ7$7$7$$$7$$$7777$$$ZZZZZ$$77I+I?+?+~~=+~~I$7I=~~~::::::::NDD888888888
+OOOOOOOOZZ$$$$$7$$$$$$$$777777$$$$$$$77I?I+===~~:::~=$7I+=~~:::::::7DDD888888888
+OOOO888OOZZZ7$$$$$$$$$$$$$777$$$$$$$$ZZZ$7I??==~~:::~+I?+=~~~:::::~NDDD888888888
+OOOOOOOOOOOOZ$$$$$$$$$$Z$$$$$$$$$$Z$$$$$$$77I+==~~~~~==+==~~~:::::MDDDDD88888888
+ZZZZOO888ODNN$$$$$$$$$$$$$$$$$$$$$$$$$$$77II?++=~~~~~~====~~~::::~8DDDDDDDDDDDDD
+ZZZZZO88OONNN$$Z$$$$$$$Z$$$$$$$$$$$7777II?++++==~=~~~~~==~~::::::DDDDDDDDNNNNNNN
+OOOOOO88ODNNMN$$ZZ$$$$$$$$$$77777IIIII?++?=~~~~~~~~::~~~~~~~~:::$8DDDDDDDDNNNNNN
+88888888DNNNMMM$ZZZZZ$$$ZZ$$$77777III?++II?=~~::~~:::~~~~~~:~:::8DDDDDDDDDDDDDDD
+88888888NNNNNMMM$ZZZ$Z$ZZZZZ$$777777I?++I7I+=~::~~::~~~~~~~~~~:?DDNNNNNNDDDDDDDD
+$$$$$$DNNNNNNMMMMZ$ZZZZZZZZZZZ$$7$$$$7??7$$I?+====~~~~=~~~~~:::8NNNNNNNNNNNNNNNN
+7777$DNNNNNNNNMMMMZ$ZZZZZZZZZOOOZZZZZ$$$$ZZ$I?++==~=====~~~~::O7D8NNNNNND8OOZZOO
+$7ZNNNNNNNNNNNNNMMMDZ$ZOZZOZZOOO88OOOOOZOOOZ$I??++======~~~::IOZ+DONNNMND8$7IIII
+$ONNNNNNNNNNNNNNNNMMMZ$$OOOOOZOOOO888OOOO888ZII?++++====~~~~:M8Z$=8ONNNNN8Z$7III
+DNNNNNNNNNNNNNNNNNNMMD8Z$$OOOOOOOOOOOOOOOZZ$7III?+++====~~::~88O$I88O8NNND88OZ$$
+NNNNNNNNNNNNNNNNNNNNNMDDZZ$$ZOOOOOOOOOOOOOZ$77II+?+++==~~:::M88Z$$~MDZZZ8DDDD8OO
+NNNNNNNNNNNNNNNNNNNNNNMDOO$$$ZOOOOOOOOOOOOZ$$$7I??++==~~:::7M8OZ$$=IN8ZZ$OZOO888
+NNNNNNNNNDDNNNNNNNNNNNNN8O7ZZ$$$ZZZOOOOOOOOZZ$77??++=~~~::78N88O$I+:NDOZZZZOOOZZ
+NNNNNDDDNDDDNDDDDNNNNNNNN8OII7Z$$$$$ZZZZOOOZ$7I??++==~~~:?ODNO$7??=~:NN8$ZZZZOOO
+NDDDNDDDDDDDDDDDDDDDDD8DD8Z7I???I$$$7$$$$$$$7I?++==+++++7Z8DNII?$M8=:8ND8ZZZZZZZ
+NDDDDDDDDDDDDDDDDDDDD8DDDDZO7???++?I$$$$$$7II?+?IIII?I?$ZO8NZ=+MMMMND:MN8OZZOZOO
+NDDDDDDDDDDDDDDDDDDDDNDDDD8Z8I??++=+===??IIIII7I??II7$ZO88DDO=MMMMMMMD=MD8ZZZOZO
+NDDDDDDDDDDDDDDDDDDDNDDDDD88ZOZ++?+=+++?????IIIIII7$$ZOO88DOIMMMMMMMMNDINDOO$ZOZ
+NDDDDDDDDDDDDDDDDDDDDDDDDDD88ZOZ=?+++???????IIII77$ZZZOO88D8IMMMMMMMMMN$NN8OZZZO",
+      "items": [],
+      "points": 0,
+      "exits": [
+        {
+          "direction": "clarkson",
+          "room": "???????"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "South Corridor, 4th Floor",
+      "description": "You can visit the offices of Profs. MYERS, KOZEN, and FOSTER from here. Other
+exits include NORTHWEST and NORTHEAST.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "northeast",
+          "room": "East Corridor, 4th Floor"
+        },
+        {
+          "direction": "northwest",
+          "room": "Near the Elevator, 4th Floor"
+        },
+        {
+          "direction": "myers",
+          "room": "Prof. Myers's Office"
+        },
+        {
+          "direction": "kozen",
+          "room": "Prof. Kozen's Office"
+        },
+        {
+          "direction": "foster",
+          "room": "Prof. Foster's Office"
+        }
+      ],
+      "treasure": []
+    },
+    {
+      "id": "Prof. Myers's Office",
+      "description": "You wander into Prof. Myers's office. He greets you as you walk in, and he asks
+if there's anything you need. When you respond that you're just here to chat,
+he nods knowingly and discusses trustworthy software systems with you for a
+little while.
+
+As your conversation comes to a close, Prof. Myers reminds you to defend the
+abstraction barrier, and you, of course, acquiesce.
+
+You should exit his office through the door to the NORTH, since trying to exit
+any other way would make you look a bit foolish.",
+      "items": ["ABSTRACTION BARRIER"],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "north",
+          "room": "South Corridor, 4th Floor"
+        }
+      ],
+      "treasure": ["FABRIC"]
+    },
+    {
+      "id": "Prof. Kozen's Office",
+      "description": "You knock on Prof. Kozen's door. You hear a pleasant \"Come in\" in response, so
+you enter his office. He seems to be poring over some books, deep in thought.
+
+He looks up at you and asks, \"What can I help you with?\"
+
+It is at this point when you realize that you're not taking Grad Algo this
+semester and don't have any real reason to be here. You try to improvize a
+response.
+
+\"Umm, I was wondering, err, what your favorite rock band--I mean, what you're
+currently doing research on,\" you stammer.
+
+His eyes light up as he engages you in a conversation about his research on
+KATs (Kleene Algebra with Tests).
+
+Once you've fully absorbed this information, you should exit his office to the
+NORTH.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "north",
+          "room": "South Corridor, 4th Floor"
+        }
+      ],
+      "treasure": ["POSTER"]
+    },
+    {
+      "id": "Prof. Foster's Office",
+      "description": "The door was ajar, so you slip into Prof. Foster's office. However, you somehow
+missed the fact that there were voices coming from within, so you find yourself
+interrupting a frenetic conversation between Prof. Foster and one of his grad
+students.
+
+\"Would you mind coming back a little later?\" he asks, while drawing a diagram
+that strangely resembles a cat on his whiteboard.
+
+You give them the most sincere \"sorry\" you can muster, as you prepare to
+walk NORTH out the office.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "north",
+          "room": "South Corridor, 4th Floor"
+        }
+      ],
+      "treasure": ["BIKE","COFFEE"]
+    },
+    {
+      "id": "Aether",
+      "description": "You are somewhere that does not exist.
+
+This \"room\" is used as a way to adjust the max points to win. Since some items
+spawn in their treasure rooms, it's impossible to gain the points for those
+treasures. Also, it enables a secret ending. (;",
+      "items": [],
+      "points": -2630,
+      "exits": [
+      ],
+      "treasure": []
+    }
+  ],
+  "start_room": "Start",
+  "items":
+  [
+    {
+      "id": "BIKE",
+      "description": "a bicycle whose safety and correctness has been formally verified in Coq",
+      "points": 100
+    },
+    {
+      "id": "INSCRIPTION",
+      "description": "an engraving bearing the names of two professors",
+      "points": 100
+    },
+    {
+      "id": "MOOD CLOUD",
+      "description": "an interactive art piece that uses emotions as data and data as art",
+      "points": 100
+    },
+    {
+      "id": "COFFEE",
+      "description": "your ticket to a lesson in advanced programming languages",
+      "points": 100
+    },
+    {
+      "id": "TEA",
+      "description": "a piping hot cup of freshly brewed tea",
+      "points": 100
+      },
+    {
+      "id": "CROISSANT",
+      "description": "a crescent-shaped pastry",
+      "points": 100
+    },
+    {
+      "id": "MAIL",
+      "description": "an envelope addressed to a NetID (mrc26) instead of a real address",
+      "points": 100
+    },
+    {
+      "id": "FORM",
+      "description": "a completed form for affiliating to the CS major",
+      "points": 100
+    },
+    {
+      "id": "BACKPACK",
+      "description": "a backpack lost by some poor sod",
+      "points": 100
+    },
+    {
+      "id": "RECURSION",
+      "description": "an illustration of many squares, each encased within the next",
+      "points": 100
+    },
+    {
+      "id": "CHIPS",
+      "description": "a bag of fried potato slices",
+      "points": 100
+    },
+    {
+      "id": "CANDY",
+      "description": "a bar of chocolatey goodness",
+      "points": 100
+    },
+    {
+      "id": "FINAL",
+      "description": "someone's CS 2110 final",
+      "points": 100
+    },
+    {
+      "id": "LAMBDA",
+      "description": "the secret to functional programming",
+      "points": 2430
+    },
+    {
+      "id": "PORTRAIT",
+      "description": "a framed photo of the CS Department Chair from 1993-99",
+      "points": 100
+    },
+    {
+      "id": "POSTER",
+      "description": "a poster for the band, The Rebeckonings, formerly known as The Juliatrics and The Katatonics",
+      "points": 100
+    },
+    {
+      "id": "ABSTRACTION BARRIER",
+      "description": "an interface that protects clients from accessing the implementation",
+      "points": 100
+    },
+    {
+      "id": "FABRIC",
+      "description": "a swath of fabric used to make secure, open, distributed applications",
+      "points": 100
+    },
+    {
+      "id": "FOOSBALL TABLE",
+      "description": "a totally realistic simulation of soccer",
+      "points": 100
+    },
+    {
+      "id": "TANGY",
+      "description": "a tangrams game with innovative drag and drop",
+      "points": 100
+    },
+    {
+      "id": "MILK",
+      "description": "the perfect coffee creamer",
+      "points": 100
+    },
+    {
+      "id": "COWMPUTER",
+      "description": "a computing machine of bovine origins",
+      "points": 100
+    },
+    {
+      "id": "PIANO",
+      "description": "a piano belonging to a particularly musical 3110 professor",
+      "points": 100
+    },
+    {
+      "id": "COMPANION CUBE",
+      "description": "a replica of your buddy from the Portal series of games",
+      "points": 100
+    }
+  ],
+  "start_items": ["COMPANION CUBE"]
+}

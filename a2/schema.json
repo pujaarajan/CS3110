@@ -1,0 +1,54 @@
+{
+  "type": "object",
+  "properties": {
+    "rooms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string" },
+          "description": { "type": "string" },
+          "items": {
+            "type": "array",
+            "items": { "type": "string" },
+          },
+          "points": { "type": "integer" },
+          "exits": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "direction": { "type": "string" },
+                "room": { "type": "string" }
+              },
+              "required": [ "direction", "room" ]
+            }
+          },
+          "treasure": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "required": [ "id", "description", "items", "points", "exits", "treasure" ]
+      },
+    },
+    "start_room": { "type": "string" },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string" },
+          "description": { "type": "string" },
+          "points": { "type": "integer" }
+        },
+        "required": [ "id", "description", "points" ]
+      }
+    },
+    "start_items": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": [ "rooms", "start_room", "items", "start_items" ]
+}

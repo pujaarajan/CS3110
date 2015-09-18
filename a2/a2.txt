@@ -1,0 +1,31 @@
+Summarize your solution
+-----------------------
+
+* What was your approach to solving the assignment?
+* Are there any known bugs in your solution?
+* Should we run your own adventure with your own game engine,
+  or would you prefer that we use our game engine (e.g., if you
+  know there are significant bugs in your engine, you might 
+  prefer that we use ours).
+  
+Summarize your testing plan
+---------------------------
+
+* How did you test your model?
+* How did you test your player-command parser?
+* How did you test your JSON adventure file parser?
+* How did you playtest?
+* To what extent was your testing automated?
+
+Feedback on the assignment
+--------------------------
+
+* What was fun about the assignment?
+* What did you find especially hard?
+* How could the assignment be made more valuable?
+
+Karma
+-----
+
+* What, if any, karma functionality did you implement?
+* How can the grader access that functionality and test it?

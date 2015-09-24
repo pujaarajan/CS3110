@@ -79,13 +79,13 @@ let takeitem_updateplayer (player : player) (item_id : string) : player =
   if List.exists (fun (s: string) -> s = item_id) player.player_items then
     let () = print_string("You already have that item.\n") in player
     else
-    let () = { player with player_items = (add_s_to_l player.player_items item_id); } in player
+    { player with player_items = (add_s_to_l player.player_items item_id); }
 
 let takeitem_updaterooms (rooms : room) (item_id : string) : room =
   if List.exists (fun (s: string) -> s = item_id) rooms.room_items then
     let () = print_string("You already have that item.\n") in rooms
     else
-    let () = { room with room_items = List.filter (fun (s: string) -> s <> item_id) rooms.room_items; }
+    { room with room_items = List.filter (fun (s: string) -> s <> item_id) rooms.room_items; }
 
 let takeitem_updategame (game_now : game_now) (item_id : string) : game_now =
   if List.exists (fun (s: string) -> s = item_id) game_now.your_items then
@@ -98,16 +98,39 @@ let takeitem_updategame (game_now : game_now) (item_id : string) : game_now =
 
 let dropitem_updateplayer (player : player) (item_id : string) : player =
   if List.exists (fun (s: string) -> s = item_id) player.player_items then
-    let () = { player with player_items = List.filter (fun (s: string) -> s <> item_id) player.player_items; }
+    { player with player_items = List.filter (fun (s: string) -> s <> item_id) player.player_items; }
     in player
     else
     let () = print_string("You don't have that item to drop.\n") in player
 
 let dropitem_updaterooms (rooms : room) (item_id : string) : room =
   if List.exists (fun (s: string) -> s = item_id) rooms.room_items then
-    let () = { room with room_items = List.filter (fun (s: string) -> s <> item_id) rooms.room_items; }
+    { room with room_items = List.filter (fun (s: string) -> s <> item_id) rooms.room_items; }
     else
     let () = print_string("You don't have that item to drop.\n") in rooms
+
+
+(*MOVE*)
+
+let move (game: GameState.params) (player: Player.params)
+  (input_direction: string) : Player.params * GameState.params =
+  let exits = player.room.exits in
+  let bool_val = List.exists (fun (index: Exit.params) ->
+    index.direction = input_direction) exits in
+  if bool_val then
+    let directed_room_exit =
+      List.find (fun (exit: Exit.params) -> exit.direction = input_direction) exits in
+    let directed_room =
+      GameState.find_room_by_id game directed_room_exit.room in
+    let updated_room = Room.reset_score directed_room in
+    let updated_player = { player with
+    room = updated_room;
+    score = player.score + directed_room.points;
+    } in
+    (updated_player, GameState.update_room game updated_room)
+    else
+      let () = print_string ("You cant walk in that direction\n") in
+      (Player.add_turn player, game)
 
 
 (*PLAYER*)
@@ -188,26 +211,46 @@ let rec repl (player : player) (rooms : room list) (game_now : game_now) (game_a
   else
     let () = print_string("What do you want to do now?: \n") in
     let input = String.lowercase(String.trim(read_line())) in
-    let input_words = Str.split (Str.regexp "[ \t]+") input in
+    let input_words = Str.bounded_split (Str.regexp "[ \t]+") input 2 in
     match input_words with
-    | ["inventory";] | ["inv";] ->
-      let () = List.iter (Printf.printf "%s \n") (repl_player.player_items) in
-      repl player rooms game_now game_all
-    | ["score";] ->
-      let () = print_int game_now.your_points in
-      repl player rooms game_now game_all
-    | ["turns";] ->
-      let () = print_int game_now.your_turns in
-      repl player rooms game_now game_all
-    | ["quit";] ->
-      let () = print_string("Quitting the game...\n") in
-      exit 0
-    | ["look";] ->
-      let () = print_endline (string_to_room repl_player.player_room (repl_rooms)).room_description in
-      repl player rooms game_now game_all
-    | _ ->
-    let () = print_string("Not a real function\n") in
-    repl player rooms game_now game_all
+    | [h] -> begin
+      match h with
+        |"inv" ->
+        let () = List.iter (Printf.printf "%s \n") (repl_player.player_items) in
+        repl player rooms game_now game_all
+        |"inventory" ->
+        List.iter (Printf.printf "%s \n") (repl_player.player_items) in
+        repl player rooms game_now game_all
+        | "score" ->
+        let () = print_int game_now.your_points in
+        repl player rooms game_now game_all
+        | "turns" ->
+        let () = print_int game_now.your_turns in
+        repl player rooms game_now game_all
+        | "quit" ->
+        let () = print_string("Quitting the game...\n") in
+        exit 0
+        | "look" ->
+        let () = print_endline (string_to_room repl_player.player_room (repl_rooms)).room_description in
+        repl player rooms game_now game_all
+        | _ ->
+        let () = print_string("Not a real function\n") in
+        repl player rooms game_now game_all
+      end
+    | [h;t] -> begin
+        match h with
+          | "drop" -> begin
+              let () = function_drop t
+          | "take" -> begin
+            match t with
+            (*how to match on diff items everytime*)
+          end
+          | "take" -> adfdfsasd
+        match t with
+          |
+
+
+
 
 
 let () = repl repl_player repl_rooms repl_game_now repl_game_all

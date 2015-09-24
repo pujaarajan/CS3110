@@ -11,6 +11,10 @@ let rec sum l =
     | [] -> 0
     | hd :: tl -> hd + sum tl
 
+let rec add_s_to_l (l: string list) (s: string) =
+  match l with
+  | [] -> [s]
+  | h::t -> h::(add_s_to_l t s)
 
 (*ROOM*)
 
@@ -67,7 +71,43 @@ let extract_items (t : Yojson.Basic.json) : (string * item) list =
 let string_to_item (item_id : bytes) (i : item list) : item =
   List.find(fun (i : item) -> i.item_id = item_id) i
 
-let item_take ()
+
+(*TAKE*)
+
+(*HELP - WHY DO I NEED AN IN IN ALL 3 OF THESE*)
+let takeitem_updateplayer (player : player) (item_id : string) : player =
+  if List.exists (fun (s: string) -> s = item_id) player.player_items then
+    let () = print_string("You already have that item.\n") in player
+    else
+    let () = { player with player_items = (add_s_to_l player.player_items item_id); } in player
+
+let takeitem_updaterooms (rooms : room) (item_id : string) : room =
+  if List.exists (fun (s: string) -> s = item_id) rooms.room_items then
+    let () = print_string("You already have that item.\n") in rooms
+    else
+    let () = { room with room_items = List.filter (fun (s: string) -> s <> item_id) rooms.room_items; }
+
+let takeitem_updategame (game_now : game_now) (item_id : string) : game_now =
+  if List.exists (fun (s: string) -> s = item_id) game_now.your_items then
+    let () = print_string("You already have that item.\n") in game_now
+    else
+    let item_point = (string_to_item item_id).item_points in
+    { game_now with your_items = (game_now.your_items@[item_id]); room_points = sum(game_now.your_points@[item_point]) }
+
+(*DROP*)
+
+let dropitem_updateplayer (player : player) (item_id : string) : player =
+  if List.exists (fun (s: string) -> s = item_id) player.player_items then
+    let () = { player with player_items = List.filter (fun (s: string) -> s <> item_id) player.player_items; }
+    in player
+    else
+    let () = print_string("You don't have that item to drop.\n") in player
+
+let dropitem_updaterooms (rooms : room) (item_id : string) : room =
+  if List.exists (fun (s: string) -> s = item_id) rooms.room_items then
+    let () = { room with room_items = List.filter (fun (s: string) -> s <> item_id) rooms.room_items; }
+    else
+    let () = print_string("You don't have that item to drop.\n") in rooms
 
 
 (*PLAYER*)
@@ -133,7 +173,7 @@ let parse_commands commands =
 in Yojson.Basic.from_file(second_input)
 
 let inputs = parse_commands (Array.to_list Sys.argv)
-let rooms = extract_rooms inputs
+let repl_rooms = extract_rooms inputs
 let items = extract_items inputs
 let repl_player = player(inputs)
 let repl_game_all = game_all(inputs)
@@ -142,7 +182,7 @@ let repl_game_now = game_now
 
 (*REPL LOOP*)
 
-let rec repl (player : player) (game_now : game_now) (game_all : game_all) : unit =
+let rec repl (player : player) (rooms : room list) (game_now : game_now) (game_all : game_all) : unit =
   if (game_now.your_points = game_all.all_points) then
     print_string("You win!")
   else
@@ -152,23 +192,23 @@ let rec repl (player : player) (game_now : game_now) (game_all : game_all) : uni
     match input_words with
     | ["inventory";] | ["inv";] ->
       let () = List.iter (Printf.printf "%s \n") (repl_player.player_items) in
-      repl player game_now game_all
+      repl player rooms game_now game_all
     | ["score";] ->
       let () = print_int game_now.your_points in
-      repl player game_now game_all
+      repl player rooms game_now game_all
     | ["turns";] ->
       let () = print_int game_now.your_turns in
-      repl player game_now game_all
+      repl player rooms game_now game_all
     | ["quit";] ->
       let () = print_string("Quitting the game...\n") in
       exit 0
     | ["look";] ->
-      let () = print_endline (string_to_room repl_player.player_room (extract_rooms inputs)).room_description in
-      repl player game_now game_all
+      let () = print_endline (string_to_room repl_player.player_room (repl_rooms)).room_description in
+      repl player rooms game_now game_all
     | _ ->
     let () = print_string("Not a real function\n") in
-    repl player game_now game_all
+    repl player rooms game_now game_all
 
 
-let () = repl repl_player repl_game_now repl_game_all
+let () = repl repl_player repl_rooms repl_game_now repl_game_all
 

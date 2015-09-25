@@ -50,7 +50,7 @@
     },
     {
       "id": "slytherin dungeon",
-      "description": "This is Slytherin Dungeon.  There is an exit to the north.",
+      "description": "This is Slytherin Dungeon.  There is an exit to the east.",
       "items": [],
       "points": 10,
       "exits": [
@@ -68,20 +68,24 @@
       {
       "id": "gryffindor tower",
       "description": "This is Gryffindor Tower.  There is an exit to the north.\nYou should drop the golden snitch here.",
-      "items": [],
+      "items": ["griffindor sword"],
       "points": 10,
       "exits": [
         {
           "direction": "west",
           "room": "slytherin dungeon"
+        },
+        {
+          "direction": "north",
+          "room": "chamber of secrets"
         }
       ],
       "treasure": ["golden snitch"]
     },
   {
       "id": "chamber of secrets",
-      "description": "This is the Chamber of Secrets.  There is an exit to the north.\nYou should drop the white hat here.",
-      "items": ["black hat"],
+      "description": "This is the Chamber of Secrets.  DUN DUN DUN!!! There is no other exit except the entrance how you got here.\n You see Tom Marvolo Riddle and a Basalisk. You should take out (drop) the griffindor sword here.\n Your adventure ends here. Prepare to die.",
+      "items": [],
       "points": 10,
       "exits": [
         {
@@ -89,7 +93,7 @@
           "room": "room2"
         }
       ],
-      "treasure": ["white hat"]
+      "treasure": ["griffindor sword"]
     }
   ],
   "start_room": "great hall",

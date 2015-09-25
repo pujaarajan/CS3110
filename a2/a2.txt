@@ -2,30 +2,84 @@ Summarize your solution
 -----------------------
 
 * What was your approach to solving the assignment?
+
+1. Read the assignment
+2. Understand the assignment
+3. Figure out what the input was
+4. Get the input in a format I can use
+5. Use the input to create a game
+6. Create functions for each part of the game
+7. Create repl to run function continuosly until I win
+
 * Are there any known bugs in your solution?
+
+One bug :( - I thought item points were collected when you picked them up,
+not when you dropped them at the treasure location. I found out very late today
+that was not the case, and did not have time to change it. I know it's not a
+big change in my code, but I don't think it's worth me losing 25% for 2 more
+days. Sorry for the bug, hopefully it won't screw up your testing or
+automated grading system.
+
 * Should we run your own adventure with your own game engine,
   or would you prefer that we use our game engine (e.g., if you
-  know there are significant bugs in your engine, you might 
+  know there are significant bugs in your engine, you might
   prefer that we use ours).
-  
+
+  No "significant" errors.
+
 Summarize your testing plan
 ---------------------------
 
 * How did you test your model?
+
+Played it. A lot. Made everyone who walked past me and said hi play it too.
+
 * How did you test your player-command parser?
+
+Tested bits and pieces of code in utop and then tried compiling and running and
+printing outputs.
+
 * How did you test your JSON adventure file parser?
+
+Tested bits and pieces of code in utop and then tried compiling and running and
+printing outputs.
+
 * How did you playtest?
+
+Tried all the possible things a person could do at each spot on my medium sized
+individual adventure. It was bigger than minimal.json and smaller than gates.json
+which made it easier.
+
 * To what extent was your testing automated?
+
+Not at all
 
 Feedback on the assignment
 --------------------------
 
 * What was fun about the assignment?
+
+Loved the assignment!
+
 * What did you find especially hard?
+
+Json parsing was a pain in the ass. Spent 3 days trying to make a linked list,
+and it was a major waste of my time.
+
 * How could the assignment be made more valuable?
+
+Wish the instructions were a litle clearer on all the individual actions. I know
+it was well-written, but it was a pretty large assignment and something along
+the lines of an end checklist would have been extremely useful and helpful.
 
 Karma
 -----
 
 * What, if any, karma functionality did you implement?
+
+I wrote a cool Harry Potter adventure!!! Hope you like/have read/ have see
+Harry Potter :)
+
 * How can the grader access that functionality and test it?
+
+You can access it by loading in adv.json.

@@ -2,85 +2,8 @@
   "rooms":
   [
     {
-      "id": "great hall",
-      "description": "Welcome to Hogwarts! This is the Great Hall.\n There is an exit to the north.\nYou should drop the resurrection stone here.",
-      "items": ["cloak of invisibility"],
-      "points": 10,
-      "exits": [
-        {
-          "direction": "north",
-          "room": "ravenclaw tower"
-        }
-      ],
-      "treasure": ["resurrection stone"]
-    },
-    {
-      "id": "ravenclaw tower",
-      "description": "This is Ravenclaw Tower.  There is an exit to the east.\nYou should drop the cloak of invisibility here.",
-      "items": ["elder wand"],
-      "points": 10,
-      "exits": [
-        {
-          "direction": "east",
-          "room": "hufflepuff basement"
-        },
-        {
-          "direction": "south",
-          "room": "great hall"
-        }
-      ],
-      "treasure": ["cloak of invisibility"]
-    },
-    {
-      "id": "hufflepuff basement",
-      "description": "This is Hufflepuff Basement.  There is an exit to the north.\nYou should drop the elder wand here.",
-      "items": ["golden snitch"],
-      "points": 10,
-      "exits": [
-        {
-          "direction": "north",
-          "room": "slytherin dungeon"
-        },
-        {
-          "direction": "west",
-          "room": "ravenclaw tower"
-        }
-      ],
-      "treasure": ["elder wand"]
-    },
-    {
-      "id": "slytherin dungeon",
-      "description": "This is Slytherin Dungeon.  There is an exit to the north.",
-      "items": [],
-      "points": 10,
-      "exits": [
-        {
-          "direction": "east",
-          "room": "gryffindor tower"
-        },
-        {
-          "direction": "south",
-          "room": "hufflepuff basement"
-        }
-      ],
-      "treasure": []
-    },
-      {
-      "id": "gryffindor tower",
-      "description": "This is Gryffindor Tower.  There is an exit to the north.\nYou should drop the golden snitch here.",
-      "items": [],
-      "points": 10,
-      "exits": [
-        {
-          "direction": "west",
-          "room": "slytherin dungeon"
-        }
-      ],
-      "treasure": ["golden snitch"]
-    },
-  {
-      "id": "chamber of secrets",
-      "description": "This is the Chamber of Secrets.  There is an exit to the north.\nYou should drop the white hat here.",
+      "id": "room1",
+      "description": "This is Room 1.  There is an exit to the north.\nYou should drop the white hat here.",
       "items": ["black hat"],
       "points": 10,
       "exits": [
@@ -91,30 +14,33 @@
       ],
       "treasure": ["white hat"]
     },
+    {
+      "id": "room2",
+      "description": "This is Room 2.  There is an exit to the south.\nYou should drop the black hat here.",
+      "items": [],
+      "points": 10,
+      "exits": [
+        {
+          "direction": "south",
+          "room": "room1"
+        }
+      ],
+      "treasure": ["black hat"]
+    }
   ],
-  "start_room": "great hall",
+  "start_room": "room1",
   "items":
   [
     {
-      "id": "resurrection stone",
-      "description": "The Resurrection Stone allows the holder to bring back deceased loved ones and communicate with the dead.",
-      "points": 10
+      "id": "black hat",
+      "description": "A black fedora",
+      "points": 100
     },
     {
-      "id": "cloak of invisibility",
-      "description": "the Cloak of Invisibility has the power to shield the wearer from being seen by Death",
-      "points": 20
-    },
-        {
-      "id": "elder wand",
-      "description": "The Elder Wand is an extremely powerful wand made of elder wood with a core of Thestral tail hair.",
-      "points": 30
-    },
-    {
-      "id": "golden snitch",
-      "description": " The GOlden Snitch a very fast and difficult-to-see golden orb the size of a walnut with wings.",
-      "points": 150
+      "id": "white hat",
+      "description": "A white panama",
+      "points": 100
     }
   ],
-  "start_items": ["resurrection stone"]
+  "start_items": ["white hat"]
 }

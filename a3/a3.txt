@@ -1,0 +1,36 @@
+Summarize your solution
+-----------------------
+
+* What was your approach to solving the assignment?
+
+First we implemented the crawler. Then we moved onto DictSet and AssocDictList and BST. We wrote test cases sporadically in the middle. Then we connected the crawler and the more efficient data structures.
+
+* Are there any known bugs in your solution?
+
+No known bugs.
+
+Feedback on the assignment
+--------------------------
+
+* What was fun about the assignment?
+
+We found the idea and funny jokes behind the assignment fun.
+
+* What did you find especially hard?
+
+We found the insert and fold functions particularly difficult. 
+
+* How could the assignment be made more valuable?
+
+We would have liked less testing because we spent a lot of time testing things for points that we knew how to test.
+
+Karma
+-----
+
+* What, if any, karma functionality did you implement?
+
+No Karma
+
+* How can the grader access that functionality and test it?
+
+No Karma

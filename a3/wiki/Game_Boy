@@ -1,0 +1,936 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Game Boy - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.18wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Game_Boy&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Game_Boy&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Game_Boy", "wgTitle": "Game Boy", "wgCurRevisionId": 477632505, "wgArticleId": 5591552, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Articles containing Japanese language text", "Articles containing explicitly cited English language text", "Articles needing additional references from May 2011", "All articles needing additional references", "1989 introductions", "Game Boy consoles", "Monochrome video game consoles", "Regionless game consoles", "Fourth-generation video game consoles", "National Toy Hall of Fame inductees", "Handheld game consoles", "Z80"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "wgTrackingToken": "1da6cd1d497a57bf5bfa060ec3cb9d39", "wikilove-recipient": "", "wikilove-edittoken": "+\\", "wikilove-anon": 0, "mbEmailEnabled": true, "mbUserEmail": false, "mbIsEmailConfirmationPending": false, "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+}
+</script><script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.18/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Game_Boy action-view skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Game Boy</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">For the entire Game Boy line of handheld consoles, see <a href="Game_Boy_line" title="Game Boy line">Game Boy line</a>.</div>
+<table class="infobox hproduct vevent" cellspacing="5" style="width:22em;">
+<caption class="fn summary" style="">Game Boy</caption>
+<tr>
+<th colspan="2" class="" style="text-align:center; font-size:125%; font-weight:bold;"><a href="File:Gameboy_logo.svg" class="image"><img alt="Gameboy logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gameboy_logo.svg/245px-Gameboy_logo.svg.png" width="245" height="41" /></a></th>
+</tr>
+<tr class="">
+<td colspan="2" class="" style="text-align:center;"><a href="File:Nintendo_Gameboy.jpg" class="image"><img alt="Nintendo Gameboy.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nintendo_Gameboy.jpg/175px-Nintendo_Gameboy.jpg" width="175" height="287" /></a></td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;"><a href="Category:Electronics_companies" title="Category:Electronics companies">Manufacturer</a></th>
+<td class="" style=""><a href="Nintendo" title="Nintendo">Nintendo</a></td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Product family</th>
+<td class="" style=""><a href="Game_Boy_line" title="Game Boy line">Game Boy line</a></td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Type</th>
+<td class="" style=""><a href="Handheld_game_console" title="Handheld game console">Handheld game console</a></td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;"><a href="History_of_video_games" title="History of video games">Generation</a></th>
+<td class="" style=""><a href="History_of_video_game_consoles_(fourth_generation)" title="History of video game consoles (fourth generation)">Fourth generation</a></td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Retail availability</th>
+<td class="" style="">
+<ul style="list-style: none none; line-height: inherit; margin: 0px;">
+<li><small><sup><a href="Japan" title="Japan">JP</a></sup></small> April 21, 1989<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></li>
+<li><small><sup><a href="North_America" title="North America">NA</a></sup></small> August 1989<sup id="cite_ref-offoldgames_1-0" class="reference"><a href="#cite_note-offoldgames-1"><span>[</span>2<span>]</span></a></sup></li>
+<li><small><sup><a href="Europe" title="Europe">EU</a></sup></small> September 28, 1990</li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Discontinued</th>
+<td class="" style="">2003<sup id="cite_ref-consolidatedsales_2-0" class="reference"><a href="#cite_note-consolidatedsales-2"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Units sold</th>
+<td class="" style="">Worldwide: 118.69 million, including Game Boy (Play it Loud!), Game Boy Pocket, Game Boy Light and <a href="Game_Boy_Color" title="Game Boy Color">Color</a> units</td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Media</th>
+<td class="" style="">Game Boy <a href="ROM_cartridge" title="ROM cartridge">cartridges</a>.</td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;"><a href="List_of_best-selling_video_games" title="List of best-selling video games">Best-selling game</a></th>
+<td class="" style=""><i><a href="Tetris_(Game_Boy)" title="Tetris (Game Boy)">Tetris</a></i>, 30.26 million <small>(<a href="Pack-in_game" title="Pack-in game">pack-in</a>/separately)</small><br />
+<a href="Pok%C3%A9mon_Red_and_Blue" title="Pokémon Red and Blue"><i>Pokémon Red</i> and <i>Blue</i></a>, 23.64 million approximately <small>(as of January 18, 2009)</small>.<sup id="cite_ref-elspap_3-0" class="reference"><a href="#cite_note-elspap-3"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Predecessor</th>
+<td class="" style=""><a href="Game_%26_Watch" title="Game &amp; Watch">Game &amp; Watch</a></td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Successor</th>
+<td class="" style=""><a href="Game_Boy_Pocket" title="Game Boy Pocket" class="mw-redirect">Game Boy Pocket</a> (redesign)<br />
+<a href="Game_Boy_Light" title="Game Boy Light" class="mw-redirect">Game Boy Light</a> (second redesign)<br />
+<a href="Game_Boy_Color" title="Game Boy Color">Game Boy Color</a> (successor)</td>
+</tr>
+</table>
+<p>The <b>Game Boy</b> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja" xml:lang="ja">ゲームボーイ</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Gēmu Bōi</i><span class="t_nihongo_help noprint"><sup><a href="Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup></span>)</span>, is an 8-bit <a href="Handheld_game_console" title="Handheld game console">handheld video game device</a> developed and manufactured by <a href="Nintendo" title="Nintendo">Nintendo</a>. It was released in <a href="Japan" title="Japan">Japan</a> on April 21, 1989<span style="display:none">&#160;(<span class="bday dtstart published updated">1989-04-21</span>)</span>, in <a href="North_America" title="North America">North America</a> in August 1989<span style="display:none">&#160;(<span class="bday dtstart published updated">1989-08</span>)</span>, and in <a href="Europe" title="Europe">Europe</a> on September 28, 1990<span style="display:none">&#160;(<span class="bday dtstart published updated">1990-09-28</span>)</span>. It is the first handheld console in the <a href="Game_Boy_line" title="Game Boy line">Game Boy line</a>, and was created by <a href="Gunpei_Yokoi" title="Gunpei Yokoi">Gunpei Yokoi</a> and <a href="Nintendo_Research_%26_Development_1" title="Nintendo Research &amp; Development 1">Nintendo Research &amp; Development 1</a>—the same staff who had designed the <a href="Game_%26_Watch" title="Game &amp; Watch">Game &amp; Watch</a> series as well as several popular games for the <a href="Nintendo_Entertainment_System" title="Nintendo Entertainment System">Nintendo Entertainment System</a>.<sup id="cite_ref-allgame_4-0" class="reference"><a href="#cite_note-allgame-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>The Game Boy is Nintendo's second handheld system following the Game &amp; Watch series introduced in <a href="1980_in_video_gaming" title="1980 in video gaming">1980</a>, and it combined features from both the Nintendo Entertainment System and Game &amp; Watch and its B&amp;W.<sup id="cite_ref-allgame_4-1" class="reference"><a href="#cite_note-allgame-4"><span>[</span>5<span>]</span></a></sup> It was originally bundled with the puzzle game <i><a href="Tetris_(Game_Boy)" title="Tetris (Game Boy)">Tetris</a></i>.<sup id="cite_ref-gb_5-0" class="reference"><a href="#cite_note-gb-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>Despite many other, technologically superior handheld consoles introduced during its lifetime,<sup id="cite_ref-atariage_6-0" class="reference"><a href="#cite_note-atariage-6"><span>[</span>7<span>]</span></a></sup> the Game Boy was a tremendous success. The Game Boy and <a href="Game_Boy_Color" title="Game Boy Color">Game Boy Color</a> combined have sold 118.69 million units worldwide. Upon its release in the United States, it sold its entire shipment of one million units within weeks.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Features"><span class="tocnumber">1</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Launch_titles"><span class="tocnumber">2</span> <span class="toctext">Launch titles</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#European_launch_titles"><span class="tocnumber">2.1</span> <span class="toctext">European launch titles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Reception"><span class="tocnumber">3</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Other_models"><span class="tocnumber">4</span> <span class="toctext">Other models</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Play_It_Loud.21"><span class="tocnumber">4.1</span> <span class="toctext">Play It Loud!</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Game_Boy_Pocket"><span class="tocnumber">4.2</span> <span class="toctext">Game Boy Pocket</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Game_Boy_Light"><span class="tocnumber">4.3</span> <span class="toctext">Game Boy Light</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Technical_specifications"><span class="tocnumber">5</span> <span class="toctext">Technical specifications</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=1" title="Edit section: Features">edit</a>]</span> <span class="mw-headline" id="Features">Features</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:202px;"><a href="File:Game_Boy_right_side.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a2/Game_Boy_right_side.PNG/200px-Game_Boy_right_side.PNG" width="200" height="72" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="File:Game_Boy_right_side.PNG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+The right side of the Game Boy, showing the volume control and the extension connector, with detached protector.</div>
+</div>
+</div>
+<p>The Game Boy has four operation buttons labeled "A", "B", "SELECT", and "START", as well as a <a href="Directional_pad" title="Directional pad" class="mw-redirect">directional pad</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup> There is a volume control dial on the right side of the console and a similar knob on the left side to adjust the <a href="Contrast_(vision)" title="Contrast (vision)">contrast</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> At the top of the Game Boy, a sliding <a href="On-off_switch" title="On-off switch" class="mw-redirect">on-off switch</a> and the slot for the Game Boy <a href="ROM_cartridge" title="ROM cartridge">cartridges</a> are located.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> Nintendo recommends users to leave a cartridge in the slot to prevent dust and dirt from entering the system.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup></p>
+<p>The Game Boy also contains optional input and/or output connectors. On the left side of the system is an external power supply jack that allows users to use an external <a href="Rechargeable_battery" title="Rechargeable battery">rechargeable battery</a> pack or <a href="AC_adapter" title="AC adapter">AC adapter</a> (sold separately) instead of four <a href="AA_batteries" title="AA batteries" class="mw-redirect">AA</a> <a href="Battery_(electricity)" title="Battery (electricity)">batteries</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> The Game Boy requires 6&#160;<a href="Volt" title="Volt">V</a> <a href="Direct_current" title="Direct current">DC</a> of at least 150&#160;<a href="Ampere" title="Ampere">mA</a>.<sup id="cite_ref-Nintendo_Game_Boy_.28DMG-001.29_13-0" class="reference"><a href="#cite_note-Nintendo_Game_Boy_.28DMG-001.29-13"><span>[</span>14<span>]</span></a></sup> A 3.5&#160;mm stereo <a href="Headphone_jack" title="Headphone jack" class="mw-redirect">headphone jack</a> is located on the bottom side of the console which allows users to listen to the audio with headphones or speakers.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup></p>
+<p>On the right side is a port that allows a user to connect to another Game Boy system via a <a href="Game_Link_Cable" title="Game Link Cable">link cable</a>, provided both users are playing the same game.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup> The port can also be used to connect a <a href="Game_Boy_Printer" title="Game Boy Printer">Game Boy Printer</a>. The link cable was originally designed for players to play head-to-head two-player games such as in <i><a href="Tetris_(Game_Boy)" title="Tetris (Game Boy)">Tetris</a></i>. However, game developer <a href="Satoshi_Tajiri" title="Satoshi Tajiri">Satoshi Tajiri</a> would later use the link cable technology as a method of communication and networking in the popular <a href="Pok%C3%A9mon_video_game_series" title="Pokémon video game series" class="mw-redirect"><i>Pokémon</i> video game series</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=2" title="Edit section: Launch titles">edit</a>]</span> <span class="mw-headline" id="Launch_titles">Launch titles</span></h2>
+<ul>
+<li><a href="Alleyway" title="Alleyway">Alleyway</a></li>
+<li><a href="Baseball_(1983_video_game)" title="Baseball (1983 video game)">Baseball</a></li>
+<li><a href="Super_Mario_Land" title="Super Mario Land">Super Mario Land</a></li>
+<li><a href="Tennis_(NES)" title="Tennis (NES)" class="mw-redirect">Tennis</a></li>
+<li><a href="Tetris_(Game_Boy)" title="Tetris (Game Boy)">Tetris</a> (Bundled with Game Boy)</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=3" title="Edit section: European launch titles">edit</a>]</span> <span class="mw-headline" id="European_launch_titles">European launch titles</span></h3>
+<ul>
+<li><a href="Qix" title="Qix">Qix</a></li>
+<li><a href="Radar_Mission" title="Radar Mission">Radar Mission</a></li>
+<li><a href="Solar_Striker" title="Solar Striker">Solar Striker</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=4" title="Edit section: Reception">edit</a>]</span> <span class="mw-headline" id="Reception">Reception</span></h2>
+<p>The Game Boy and Game Boy Color combined have sold 118.69 million units worldwide, with 32.47 million units in <a href="Japan" title="Japan">Japan</a>, 44.06 million in the <a href="Americas" title="Americas">Americas</a>, and 42.16 million in other regions. By Japanese <a href="Fiscal_year" title="Fiscal year">fiscal year</a> 1997, before Game Boy Color's release in late-1998, the Game Boy alone had sold 64.42 million units worldwide.<sup id="cite_ref-consolidatedsales_2-1" class="reference"><a href="#cite_note-consolidatedsales-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-bweek_17-0" class="reference"><a href="#cite_note-bweek-17"><span>[</span>18<span>]</span></a></sup></p>
+<p>At the time of its release in 1989, the <a href="Atari_Lynx" title="Atari Lynx">Atari Lynx</a> was also just being introduced to the market. This system featured color graphics, a backlit screen, and networking capabilities.<sup id="cite_ref-The_Atari_Lynx_18-0" class="reference"><a href="#cite_note-The_Atari_Lynx-18"><span>[</span>19<span>]</span></a></sup> However, its release price of $189.95 and substantial requirement of 6 AA batteries that would provide roughly only four or five hours of gameplay (compared to 10–12 hours on 4 AA batteries and a release price of $89.99 for the Game Boy) doomed it to a second-rate status.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup> <a href="Nintendo" title="Nintendo">Nintendo</a> also experienced heavy competition from <a href="Sega" title="Sega">Sega</a>'s <a href="Sega_Game_Gear" title="Sega Game Gear">Game Gear</a>. To promote its new color console, Sega aired a number of negative ad campaigns in the United States that mocked the Game Boy's monochrome display compared to Game Gear's full color display. Like the Lynx, it too required six AA batteries that only lasted about 4–6 hours and was much more expensive than the Game Boy.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup> The Game Gear had the advantage of being fully compatible (with an adapter) with all Sega Master System games and, while not as successful as the Game Boy, it sold from 1991 until early 1997,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup> and sold around 11 million units in total.</p>
+<p>In 2009, the Game Boy was inducted into the <a href="National_Toy_Hall_of_Fame" title="National Toy Hall of Fame">National Toy Hall of Fame</a>, 20 years after its introduction.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup></p>
+<p>As of June 6, 2011, Game Boy and <a href="Game_Boy_Color" title="Game Boy Color">Game Boy Color</a> games are available on the <a href="Virtual_Console" title="Virtual Console">Virtual Console</a> service on the <a href="Nintendo_3DS" title="Nintendo 3DS">Nintendo 3DS</a>'s <a href="Nintendo_eShop" title="Nintendo eShop">Nintendo eShop</a>.<sup id="cite_ref-VCRelease_23-0" class="reference"><a href="#cite_note-VCRelease-23"><span>[</span>24<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=5" title="Edit section: Other models">edit</a>]</span> <span class="mw-headline" id="Other_models">Other models</span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" /></div>
+</td>
+<td class="mbox-text" style="">This section <b>needs additional <a href="Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Game_Boy&amp;action=edit">improve this article</a> by adding citations to <a href="Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Unsourced material may be <a href="Template:Citation_needed" title="Template:Citation needed">challenged</a> and <a href="Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>. <small><i>(May 2011)</i></small></td>
+</tr>
+</table>
+<h3><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=6" title="Edit section: Play It Loud!">edit</a>]</span> <span class="mw-headline" id="Play_It_Loud.21">Play It Loud!</span></h3>
+<p>On January 1, 1995, Nintendo released several Game Boy models with colored cases, advertising them in the "Play It Loud!" campaign.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup> Specifications for this unit remain exactly the same as the original Game Boy, including the monochromatic screen. This new line of colored Game Boys would set a precedent for later Nintendo handhelds; the Game Boy Pocket, the <a href="Game_Boy_Color" title="Game Boy Color">Game Boy Color</a>, <a href="Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a> (including the <a href="Game_Boy_Advance_SP" title="Game Boy Advance SP">SP</a> and <a href="Game_Boy_Micro" title="Game Boy Micro">Micro</a>), <a href="Nintendo_DS" title="Nintendo DS">Nintendo DS</a> (including the <a href="Nintendo_DS_Lite" title="Nintendo DS Lite">Lite</a>, <a href="Nintendo_DSi" title="Nintendo DSi">DSi</a>, <a href="Nintendo_DSi_XL" title="Nintendo DSi XL" class="mw-redirect">DSi XL</a>), and <a href="Nintendo_3DS" title="Nintendo 3DS">Nintendo 3DS</a> all feature different colored units. Play It Loud! units were manufactured in red, green, black, yellow, blue, white, and clear (transparent) cases. A very rare, limited edition <a href="Manchester_United_F.C." title="Manchester United F.C.">Manchester United</a> Game Boy is red, with the logos of the team emblazoned on it was released simultaneously with the Play it Loud! handhelds in the United Kingdom. The Play It Loud's screens also have a darker border than the normal Game Boy (with the exception of the black Play it Loud!).<br style="clear: left" /></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=7" title="Edit section: Game Boy Pocket">edit</a>]</span> <span class="mw-headline" id="Game_Boy_Pocket">Game Boy Pocket</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="File:Gameboy_Pocket.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Gameboy_Pocket.jpg/150px-Gameboy_Pocket.jpg" width="150" height="240" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="File:Gameboy_Pocket.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+The 1st release Game Boy Pocket</div>
+</div>
+</div>
+<p>In 1996, Nintendo released the Game Boy Pocket: a smaller, lighter unit that requires fewer batteries. It has space for two <a href="AAA_batteries" title="AAA batteries" class="mw-redirect">AAA batteries</a>, which provide about 10 hours of game play. The Pocket has a smaller link port, which requires an adapter to link with the older Game Boy. The port design is used on all subsequent Game Boy models, excluding the <a href="Game_Boy_Micro" title="Game Boy Micro">Game Boy Micro</a>. The screen was changed to a true black-and-white display, rather than the "pea soup" monochromatic display of the original Game Boy. Also Game Boy Pocket (GBP) has a larger screen than the Game Boy Color (GBC) that later superseded it, the GBP's screen is 65mm (2.56") diagonal, width 48.5mm (1.91"), height 43.5mm (1.71") compared to a 59mm (2.32") diagonal for the GBC. Again, and like the Game Boy, the Game Boy Pocket has no backlight to allow play in a darkened area. The first version did not have an LED to show battery levels. This was soon added due to public demand, along with new Game Boy Pocket units of different colors, some of them new to the Game Boy line. There were several limited-edition Game Boy Pockets including a metallic Ice Blue unit and a pink model exclusive to Japan. The Game Boy Pocket was not a new software platform and played the same software as the original Game Boy model.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a href="File:Game_Boy_Light.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Game_Boy_Light.jpg/150px-Game_Boy_Light.jpg" width="150" height="245" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="File:Game_Boy_Light.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Game Boy Light</div>
+</div>
+</div>
+<h3><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=8" title="Edit section: Game Boy Light">edit</a>]</span> <span class="mw-headline" id="Game_Boy_Light">Game Boy Light</span></h3>
+<p>The Game Boy Light was released on April 14, 1998 for ¥6,800<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>26<span>]</span></a></sup> and was only available in Japan. The Game Boy Light is only slightly bigger than the Game Boy Pocket and features an <a href="Electroluminescent" title="Electroluminescent" class="mw-redirect">Electroluminescent</a> <a href="Backlight" title="Backlight">backlight</a> for low-light conditions. It uses 2 AA batteries, which gave it approximately 20 hours with the light off and 12 with it on. It was available in two standard colors; Gold and Silver, as well as numerous special editions. There is an <a href="Astro_Boy" title="Astro Boy">Astro Boy</a> edition with a clear case with an Astro Boy picture on it. There is a <a href="Osamu_Tezuka" title="Osamu Tezuka">Osamu Tezuka</a> World shop edition with a clear red case and a picture of his characters. There is a Pokémon Center Tokyo version in yellow color. There is a clear 'skeleton' <a href="Famitsu" title="Famitsu">Famitsu</a> edition which had only 5,000 units released. There is a clear yellow edition separate from the solid yellow Pokémon Center Tokyo version.</p>
+<p>It was the only handheld Nintendo produced with an integrated <a href="Backlight" title="Backlight">backlight</a> until the release of the <a href="Nintendo_DS" title="Nintendo DS">Nintendo DS</a> in 2004 (The <a href="Game_Boy_Advance_SP" title="Game Boy Advance SP">Game Boy Advance SP</a> released in 2003 was frontlit, and the later backlit model Game Boy Advance SP (<a href="Game_Boy_Advance_SP#Backlit_Model_.28AGS-101.29" title="Game Boy Advance SP">Model AGS-101</a>) was not released until 2005)</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=9" title="Edit section: Technical specifications">edit</a>]</span> <span class="mw-headline" id="Technical_specifications">Technical specifications</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="File:GameboyClear.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/GameboyClear.jpg/200px-GameboyClear.jpg" width="200" height="325" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="File:GameboyClear.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A transparent model of the Game Boy Play It Loud! Series.</div>
+</div>
+</div>
+<ul>
+<li><b><a href="Central_processing_unit" title="Central processing unit">CPU</a>:</b> Custom 8-bit <a href="Sharp_Corporation" title="Sharp Corporation">Sharp</a> LR35902<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>27<span>]</span></a></sup> core at 4.19&#160;MHz which is similar to an <a href="Intel_8080" title="Intel 8080">Intel 8080</a> in that none of the registers introduced in the <a href="Zilog_Z80" title="Zilog Z80">Z80</a> are present. However, some of the Z80's instruction set enhancements over the stock 8080, particularly bit manipulation, are present. Still other instructions are unique to this particular flavor of Z80 CPU. The core also contains integrated sound generation.<sup id="cite_ref-Gameboy_CPU_Manual_27-0" class="reference"><a href="#cite_note-Gameboy_CPU_Manual-27"><span>[</span>28<span>]</span></a></sup></li>
+<li><b><a href="Random-access_memory" title="Random-access memory">RAM</a>:</b> 8 <a href="Kilobyte" title="Kilobyte">kB</a> internal S-RAM<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>29<span>]</span></a></sup> (can be extended up to 32 kB)<sup id="cite_ref-The_Gameboy_Project_29-0" class="reference"><a href="#cite_note-The_Gameboy_Project-29"><span>[</span>30<span>]</span></a></sup></li>
+<li><b>Video RAM:</b> 8 kB internal<sup id="cite_ref-The_Gameboy_Project_29-1" class="reference"><a href="#cite_note-The_Gameboy_Project-29"><span>[</span>30<span>]</span></a></sup></li>
+<li><b><a href="Read-only_memory" title="Read-only memory">ROM</a>:</b> On-CPU-Die 256-byte bootstrap;<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>31<span>]</span></a></sup> 256 <a href="Kilobit" title="Kilobit">kb</a>, 512 kb, 1 <a href="Megabit" title="Megabit">Mb</a>, 2 Mb, 4 Mb and 8 Mb cartridges</li>
+<li><b>Sound:</b> 2 square wave generators, 1 <a href="Pulse-code_modulation" title="Pulse-code modulation">PCM</a> 4-bit wave sample (64 4-bit samples played in 1x64 bank or 2x32 bank) channel, 1 noise generator, and one audio input from the cartridge.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>32<span>]</span></a></sup> The unit only has one speaker, but headphones provide stereo sound (for further information, see <a href="Game_Boy_music" title="Game Boy music">Game Boy music</a>)</li>
+<li><b>Display:</b> Reflective STN <a href="Liquid_crystal_display" title="Liquid crystal display">LCD</a><sup id="cite_ref-Dimensions_32-0" class="reference"><a href="#cite_note-Dimensions-32"><span>[</span>33<span>]</span></a></sup> 160 × 144 <a href="Pixel" title="Pixel">pixels</a><sup id="cite_ref-The_Gameboy_Project_29-2" class="reference"><a href="#cite_note-The_Gameboy_Project-29"><span>[</span>30<span>]</span></a></sup></li>
+<li><b><a href="Frame_rate" title="Frame rate">Frame Rate</a>:</b> Approx. 59.7 frames per second on a regular Game Boy, 61.1 on a Super Game Boy<sup id="cite_ref-Fruttenboel_Gameboy_Section_33-0" class="reference"><a href="#cite_note-Fruttenboel_Gameboy_Section-33"><span>[</span>34<span>]</span></a></sup></li>
+<li><b>Vertical Blank Rate:</b> Approx 1.1ms<sup id="cite_ref-Fruttenboel_Gameboy_Section_33-1" class="reference"><a href="#cite_note-Fruttenboel_Gameboy_Section-33"><span>[</span>34<span>]</span></a></sup></li>
+<li><b>Screen size:</b> 66&#160;mm (2.6&#160;in) diagonal<sup id="cite_ref-Gameboy_CPU_Manual_27-1" class="reference"><a href="#cite_note-Gameboy_CPU_Manual-27"><span>[</span>28<span>]</span></a></sup></li>
+<li><b>Color Palette:</b> 2-bit (4 shades of "gray" {light to very dark olive green})<sup id="cite_ref-The_Gameboy_Project_29-3" class="reference"><a href="#cite_note-The_Gameboy_Project-29"><span>[</span>30<span>]</span></a></sup></li>
+<li><b>Communication:</b> Up to 2 Game Boys can be linked together via built-in serial ports, up to 4 with a DMG-07 4-player adapter.<sup id="cite_ref-The_Gameboy_Project_29-4" class="reference"><a href="#cite_note-The_Gameboy_Project-29"><span>[</span>30<span>]</span></a></sup></li>
+<li><b>Power:</b> 6 V, 0.7 W (4 AA batteries provide ~15 hours)<sup id="cite_ref-Dimensions_32-1" class="reference"><a href="#cite_note-Dimensions-32"><span>[</span>33<span>]</span></a></sup></li>
+<li><b>Dimensions:</b> 90&#160;mm (W) x 148&#160;mm (H) x 32&#160;mm (D) / 3.5" x 5.8" 1.3" <sup id="cite_ref-Dimensions_32-2" class="reference"><a href="#cite_note-Dimensions-32"><span>[</span>33<span>]</span></a></sup></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<div class="noprint tright portal" style="border:solid #aaa 1px; margin:0.5em 0 0.5em 0.5em;">
+<table style="background:#f9f9f9; font-size:85%; line-height:110%; max-width:175px;">
+<tr>
+<td style="text-align: center;"><a href="File:Nintendo.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nintendo.svg/32px-Nintendo.svg.png" width="32" height="8" /></a></td>
+<td style="padding: 0 0.2em; vertical-align: middle"><i><b><a href="Portal:Nintendo" title="Portal:Nintendo">Nintendo  portal</a></b></i></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="List_of_Game_Boy_colors_and_styles" title="List of Game Boy colors and styles">List of Game Boy colors and styles</a></li>
+<li><a href="List_of_games_for_the_original_Game_Boy" title="List of games for the original Game Boy">List of games for the original Game Boy</a></li>
+<li><a href="List_of_Game_Boy_accessories" title="List of Game Boy accessories" class="mw-redirect">List of Game Boy accessories</a> (list of all known accessories)</li>
+<li><a href="Game_Boy_accessories" title="Game Boy accessories">Game Boy accessories</a> (description of some selected accessories)</li>
+<li><a href="Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a></li>
+<li><a href="Game_Boy_line" title="Game Boy line">Game Boy line</a></li>
+<li><a href="Microvision" title="Microvision">Microvision</a>, the first handheld to use cartridges</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=11" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><b><a href="#cite_ref-0">^</a></b> <span class="citation Journal">"retrodiary: 1&#160;April – 28&#160;April". <i><a href="Retro_Gamer" title="Retro Gamer">Retro Gamer</a></i> (<a href="Bournemouth" title="Bournemouth">Bournemouth</a>: <a href="Imagine_Publishing" title="Imagine Publishing">Imagine Publishing</a>) (88): 17. April&#160;2011. <a href="International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="http://www.worldcat.org/issn/1742-3155">1742-3155</a>. <a href="Online_Computer_Library_Center" title="Online Computer Library Center">OCLC</a>&#160;<a rel="nofollow" class="external text" href="http://www.worldcat.org/oclc/489477015">489477015</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=retrodiary%3A+1%26nbsp%3BApril+%E2%80%93+28%26nbsp%3BApril&amp;rft.jtitle=%5B%5BRetro+Gamer%5D%5D&amp;rft.date=April%26nbsp%3B2011&amp;rft.issue=88&amp;rft.pages=17&amp;rft.place=%5B%5BBournemouth%5D%5D&amp;rft.pub=%5B%5BImagine+Publishing%5D%5D&amp;rft.issn=1742-3155&amp;rft_id=info:oclcnum/489477015&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-offoldgames-1"><b><a href="#cite_ref-offoldgames_1-0">^</a></b> <span class="citation Journal">White, Dave (July 1989). "Gameboy Club". <i><a href="Electronic_Gaming_Monthly" title="Electronic Gaming Monthly">Electronic Gaming Monthly</a></i> (3): 68.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Gameboy+Club&amp;rft.jtitle=%5B%5BElectronic+Gaming+Monthly%5D%5D&amp;rft.aulast=White&amp;rft.aufirst=Dave&amp;rft.au=White%2C%26%2332%3BDave&amp;rft.date=July+1989&amp;rft.issue=3&amp;rft.pages=68&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-consolidatedsales-2">^ <a href="#cite_ref-consolidatedsales_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-consolidatedsales_2-1"><sup><i><b>b</b></i></sup></a> <span class="citation web"><a rel="nofollow" class="external text" href="http://www.webcitation.org/5nXieXX2B">"Consolidated Sales Transition by Region"</a> (PDF). Nintendo. 2010-01-27. Archived from <a rel="nofollow" class="external text" href="http://www.nintendo.co.jp/ir/library/historical_data/pdf/consolidated_sales_e0912.pdf">the original</a> on 2010-02-14<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.webcitation.org/5nXieXX2B">http://www.webcitation.org/5nXieXX2B</a></span><span class="reference-accessdate">. Retrieved 2010-02-14</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Consolidated+Sales+Transition+by+Region&amp;rft.atitle=&amp;rft.date=2010-01-27&amp;rft.pub=Nintendo&amp;rft_id=http%3A%2F%2Fwww.webcitation.org%2F5nXieXX2B&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-elspap-3"><b><a href="#cite_ref-elspap_3-0">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20090515224703/http://www.elspa.com/?i=3944">"ELSPA Sales Awards: Platinum"</a>. <a href="Entertainment_and_Leisure_Software_Publishers_Association" title="Entertainment and Leisure Software Publishers Association" class="mw-redirect">Entertainment and Leisure Software Publishers Association</a>. Archived from <a rel="nofollow" class="external text" href="http://www.elspa.com/?i=3944">the original</a> on 2009-05-15<span class="printonly">. <a rel="nofollow" class="external free" href="http://web.archive.org/web/20090515224703/http://www.elspa.com/?i=3944">http://web.archive.org/web/20090515224703/http://www.elspa.com/?i=3944</a></span><span class="reference-accessdate">. Retrieved 2009-01-18</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=ELSPA+Sales+Awards%3A+Platinum&amp;rft.atitle=&amp;rft.pub=%5B%5BEntertainment+and+Leisure+Software+Publishers+Association%5D%5D&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20090515224703%2Fhttp%3A%2F%2Fwww.elspa.com%2F%3Fi%3D3944&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-allgame-4">^ <a href="#cite_ref-allgame_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-allgame_4-1"><sup><i><b>b</b></i></sup></a> <span class="citation web">Beuscher, Dave. <a rel="nofollow" class="external text" href="http://www.allgame.com/platform.php?id=20">"allgame ((( Game Boy &gt; Overview )))"</a>. <a href="Allgame" title="Allgame">Allgame</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.allgame.com/platform.php?id=20">http://www.allgame.com/platform.php?id=20</a></span><span class="reference-accessdate">. Retrieved 2008-09-11</span>. "A team headed by Gumpei Yokoi designed the Game Boy. Yokoi had previously designed hand held games for Nintendo with the cartridge based Game &amp; Watch system, introduced in 1980. His staff, called Research and Development (R and D) team #1, had designed the successful NES games Metroid and Kid Icarus. What Yokoi's team did was create a hybrid of the NES and the Game &amp; Watch systems.."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=allgame+%28%28%28+Game+Boy+%3E+Overview+%29%29%29&amp;rft.atitle=&amp;rft.aulast=Beuscher&amp;rft.aufirst=Dave&amp;rft.au=Beuscher%2C%26%2332%3BDave&amp;rft.pub=%5B%5BAllgame%5D%5D&amp;rft_id=http%3A%2F%2Fwww.allgame.com%2Fplatform.php%3Fid%3D20&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-gb-5"><b><a href="#cite_ref-gb_5-0">^</a></b> <span class="citation web">McFerran, Damien. <a rel="nofollow" class="external text" href="http://www.meanmachinesmag.co.uk/upload/media/scans/retrogamergameboy.pdf">"The Making of Gameboy"</a>. <i>Issue</i>. <a href="Retro_Gamer" title="Retro Gamer">Retro Gamer</a> Magazine. pp. 42–47<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.meanmachinesmag.co.uk/upload/media/scans/retrogamergameboy.pdf">http://www.meanmachinesmag.co.uk/upload/media/scans/retrogamergameboy.pdf</a></span><span class="reference-accessdate">. Retrieved 2011-01-30</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+Making+of+Gameboy&amp;rft.atitle=Issue&amp;rft.aulast=McFerran&amp;rft.aufirst=Damien&amp;rft.au=McFerran%2C%26%2332%3BDamien&amp;rft.pages=pp.+42%E2%80%9347&amp;rft.pub=%5B%5BRetro+Gamer%5D%5D+Magazine&amp;rft_id=http%3A%2F%2Fwww.meanmachinesmag.co.uk%2Fupload%2Fmedia%2Fscans%2Fretrogamergameboy.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-atariage-6"><b><a href="#cite_ref-atariage_6-0">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://www.atariage.com/Lynx/history.html">"AtariAge - Lynx History"</a>. <a href="AtariAge" title="AtariAge" class="mw-redirect">AtariAge</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.atariage.com/Lynx/history.html">http://www.atariage.com/Lynx/history.html</a></span><span class="reference-accessdate">. Retrieved 2010-08-23</span>. "Released in 1989, the Lynx offered multi-player functionality, 3D graphic capabilities, reversible controls, and a backlit color LCD screen."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=AtariAge+-+Lynx+History&amp;rft.atitle=&amp;rft.pub=%5B%5BAtariAge%5D%5D&amp;rft_id=http%3A%2F%2Fwww.atariage.com%2FLynx%2Fhistory.html&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> Kent 2001, p. 416. "According to an article in <i>Time</i> magazine, the one million Game Boys sent to the United States in 1989 met only half the demand for the product. That allotment sold out in a matter of weeks and it's black and white (expect for Konami/Factor 5 games and <i><a href="SeaQuest_DSV_(video_game)" title="SeaQuest DSV (video game)">SeaQuest DSV</a>,, was shown in color like the Game Gear version."</i></li>
+<li id="cite_note-8"><b><a href="#cite_ref-8">^</a></b> Owner's Manual, p. 5. "(12) Operation buttons — The controls for playing games. (See game manuals for button functions.)"</li>
+<li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> Owner's Manual, pp. 4–5. "(5) Volume dial (VOL) — Adjusts the sound volume…(7)Contrast adjustment (CONTRAST) — Adjusts the contrast of the display."</li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> Owner's Manual, pp. 3–4. "(3) Game Pak slot — Insert the Nintendo GAME BOY Game Pak here. (See page 7 for instructions on inserting Game Pak)"</li>
+<li id="cite_note-11"><b><a href="#cite_ref-11">^</a></b> Owner's Manual, p. 10. "To avoid dust and dirt getting in the Game Boy unit, always leave a Game Pak inserted when not in use."</li>
+<li id="cite_note-12"><b><a href="#cite_ref-12">^</a></b> Owner's Manual, p. 4. "(2) External power supply jack — You can connect a Rechargeable Battery Pack (sold separately) for longer play."</li>
+<li id="cite_note-Nintendo_Game_Boy_.28DMG-001.29-13"><b><a href="#cite_ref-Nintendo_Game_Boy_.28DMG-001.29_13-0">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20080211181421/http://www.vidgame.net/NINTENDO/GB.html">"Nintendo Game Boy (DMG-001)"</a>. <i>Vidgame.net</i>. 2006. Archived from <a rel="nofollow" class="external text" href="http://www.vidgame.net/NINTENDO/GB.html">the original</a> on 2008-02-11<span class="printonly">. <a rel="nofollow" class="external free" href="http://web.archive.org/web/20080211181421/http://www.vidgame.net/NINTENDO/GB.html">http://web.archive.org/web/20080211181421/http://www.vidgame.net/NINTENDO/GB.html</a></span><span class="reference-accessdate">. Retrieved 2006-08-22</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Nintendo+Game+Boy+%28DMG-001%29&amp;rft.atitle=Vidgame.net&amp;rft.date=2006&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20080211181421%2Fhttp%3A%2F%2Fwww.vidgame.net%2FNINTENDO%2FGB.html&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-14"><b><a href="#cite_ref-14">^</a></b> Owner's Manual, p. 5. "(10) Headphone jack (PHONES) — Connect the stereo headphones that come with the GAME BOY to enjoy the impressive sounds of games without disturbing others around you...."</li>
+<li id="cite_note-15"><b><a href="#cite_ref-15">^</a></b> Owner's Manual, pp. 4, 8. "(4) Extension connector (EXT CONNECTOR) — Connects to other GAME BOY…Do not insert different games in the interconnected Game Boys."</li>
+<li id="cite_note-16"><b><a href="#cite_ref-16">^</a></b> <span class="citation book">Masuyama, Meguro (2002). "Pokémon as Japanese Culture?". In Lucien King. <i><a href="Game_On_(exhibition)" title="Game On (exhibition)"><i>Game On</i></a></i>. <a href="New_York,_NY" title="New York, NY" class="mw-redirect">New York, NY</a>: Universe Publishing. p.&#160;39. <a href="International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="Special:BookSources/0-7893-0778-2" title="Special:BookSources/0-7893-0778-2">0-7893-0778-2</a>. "<i>Pokémon</i> allowed more than metaphorical communication; it made use of a system that created actual communication — a network game."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Pok%C3%A9mon+as+Japanese+Culture%3F&amp;rft.atitle=%5B%5BGame+On+%28exhibition%29%7C%27%27Game+On%27%27%5D%5D&amp;rft.aulast=Masuyama&amp;rft.aufirst=Meguro&amp;rft.au=Masuyama%2C%26%2332%3BMeguro&amp;rft.date=2002&amp;rft.pages=p.%26nbsp%3B39&amp;rft.place=%5B%5BNew+York%2C+NY%5D%5D&amp;rft.pub=Universe+Publishing&amp;rft.isbn=0-7893-0778-2&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-bweek-17"><b><a href="#cite_ref-bweek_17-0">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://images.businessweek.com/ss/06/10/game_consoles/source/7.htm">"A Brief History of Game Console Warfare: Game Boy"</a>. <i><a href="BusinessWeek" title="BusinessWeek" class="mw-redirect">BusinessWeek</a></i>. <a href="McGraw-Hill" title="McGraw-Hill">McGraw-Hill</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://images.businessweek.com/ss/06/10/game_consoles/source/7.htm">http://images.businessweek.com/ss/06/10/game_consoles/source/7.htm</a></span><span class="reference-accessdate">. Retrieved 2008-07-30</span>. "Game Boy and Game Boy Color's combined lifetime sales reached 118.7 million worldwide, according to Nintendo's latest annual report."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=A+Brief+History+of+Game+Console+Warfare%3A+Game+Boy&amp;rft.atitle=%5B%5BBusinessWeek%5D%5D&amp;rft.pub=%5B%5BMcGraw-Hill%5D%5D&amp;rft_id=http%3A%2F%2Fimages.businessweek.com%2Fss%2F06%2F10%2Fgame_consoles%2Fsource%2F7.htm&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-The_Atari_Lynx-18"><b><a href="#cite_ref-The_Atari_Lynx_18-0">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20060829165904/http://www.ataritimes.com/lynx/index.html">"The Atari Lynx"</a>. ataritimes.com. 2006. Archived from <a rel="nofollow" class="external text" href="http://www.ataritimes.com/lynx/index.html">the original</a> on 2006-08-29<span class="printonly">. <a rel="nofollow" class="external free" href="http://web.archive.org/web/20060829165904/http://www.ataritimes.com/lynx/index.html">http://web.archive.org/web/20060829165904/http://www.ataritimes.com/lynx/index.html</a></span><span class="reference-accessdate">. Retrieved 2006-08-20</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+Atari+Lynx&amp;rft.atitle=&amp;rft.date=2006&amp;rft.pub=ataritimes.com&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20060829165904%2Fhttp%3A%2F%2Fwww.ataritimes.com%2Flynx%2Findex.html&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-19"><b><a href="#cite_ref-19">^</a></b> <span class="citation web">Beuscher, Dave. <a rel="nofollow" class="external text" href="http://www.allgame.com/platform.php?id=13">"allgame ((( Atari Lynx &gt; Overview )))"</a>. <a href="Allgame" title="Allgame">Allgame</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.allgame.com/platform.php?id=13">http://www.allgame.com/platform.php?id=13</a></span><span class="reference-accessdate">. Retrieved 2008-09-21</span>. "One drawback to the Lynx system is its power consumption. It requires 6 AA batteries, which allow four to five hours of game play. The Nintendo Game Boy provides close to 35 hours use before new batteries are necessary."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=allgame+%28%28%28+Atari+Lynx+%3E+Overview+%29%29%29&amp;rft.atitle=&amp;rft.aulast=Beuscher&amp;rft.aufirst=Dave&amp;rft.au=Beuscher%2C%26%2332%3BDave&amp;rft.pub=%5B%5BAllgame%5D%5D&amp;rft_id=http%3A%2F%2Fwww.allgame.com%2Fplatform.php%3Fid%3D13&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-20"><b><a href="#cite_ref-20">^</a></b> <span class="citation web">Bauscher, Dave. <a rel="nofollow" class="external text" href="http://www.allgame.com/platform.php?id=25">"allgame ((( Sega Game Gear &gt; Overview )))"</a>. <a href="Allgame" title="Allgame">Allgame</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.allgame.com/platform.php?id=25">http://www.allgame.com/platform.php?id=25</a></span><span class="reference-accessdate">. Retrieved 2008-09-21</span>. "While this feature is not included on the Game Boy it does provide a disadvantage—the Game Gear requires 6 AA batteries that only last up to six hours. The Nintendo Game Boy only requires 4 AA batteries and is capable of providing up to 35 hours of play."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=allgame+%28%28%28+Sega+Game+Gear+%3E+Overview+%29%29%29&amp;rft.atitle=&amp;rft.aulast=Bauscher&amp;rft.aufirst=Dave&amp;rft.au=Bauscher%2C%26%2332%3BDave&amp;rft.pub=%5B%5BAllgame%5D%5D&amp;rft_id=http%3A%2F%2Fwww.allgame.com%2Fplatform.php%3Fid%3D25&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-21"><b><a href="#cite_ref-21">^</a></b> <span class="citation web">Bauscher, Dave. <a rel="nofollow" class="external text" href="http://www.allgame.com/platform.php?id=25">"allgame ((( Sega Game Gear &gt; Overview )))"</a>. <a href="Allgame" title="Allgame">Allgame</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.allgame.com/platform.php?id=25">http://www.allgame.com/platform.php?id=25</a></span><span class="reference-accessdate">. Retrieved 2008-09-21</span>. "Eventually, a peripheral called the Master System Converter was released enabling Sega Master System cartridges to be played on Game Gear… The Game Gear sold well for Sega but it did not become a phenomenon like Game Boy. In 1991 Sega sold over 500,000 units. In 1992 Sega sold 900,000 Game Gear consoles."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=allgame+%28%28%28+Sega+Game+Gear+%3E+Overview+%29%29%29&amp;rft.atitle=&amp;rft.aulast=Bauscher&amp;rft.aufirst=Dave&amp;rft.au=Bauscher%2C%26%2332%3BDave&amp;rft.pub=%5B%5BAllgame%5D%5D&amp;rft_id=http%3A%2F%2Fwww.allgame.com%2Fplatform.php%3Fid%3D25&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-22"><b><a href="#cite_ref-22">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://www.rbj.net/article.asp?aID=181826">"''Ball, Game Boy, Big Wheel enter toy hall of fame'', retrieved 5 Nov 2009"</a>. Rbj.net<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.rbj.net/article.asp?aID=181826">http://www.rbj.net/article.asp?aID=181826</a></span><span class="reference-accessdate">. Retrieved 2010-08-03</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%26%2339%3BBall%2C+Game+Boy%2C+Big+Wheel+enter+toy+hall+of+fame%27%26%2339%3B%2C+retrieved+5+Nov+2009&amp;rft.atitle=&amp;rft.pub=Rbj.net&amp;rft_id=http%3A%2F%2Fwww.rbj.net%2Farticle.asp%3FaID%3D181826&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-VCRelease-23"><b><a href="#cite_ref-VCRelease_23-0">^</a></b> <span class="citation web">Reilly, Jim. <a rel="nofollow" class="external text" href="http://ds.ign.com/articles/115/1153010p1.html">"GDC: TurboGrafx 16, Game Gear Hit 3DS"</a>. IGN/com<span class="printonly">. <a rel="nofollow" class="external free" href="http://ds.ign.com/articles/115/1153010p1.html">http://ds.ign.com/articles/115/1153010p1.html</a></span><span class="reference-accessdate">. Retrieved 18 July 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=GDC%3A+TurboGrafx+16%2C+Game+Gear+Hit+3DS&amp;rft.atitle=&amp;rft.aulast=Reilly&amp;rft.aufirst=Jim&amp;rft.au=Reilly%2C%26%2332%3BJim&amp;rft.pub=IGN%2Fcom&amp;rft_id=http%3A%2F%2Fds.ign.com%2Farticles%2F115%2F1153010p1.html&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-24"><b><a href="#cite_ref-24">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://www.allbusiness.com/consumer-products/computing-products-consumer-software/7088694-1.html">"Color it loud with hot new Game Boys; Game Boy reflects players own style with five exciting new colors"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.allbusiness.com/consumer-products/computing-products-consumer-software/7088694-1.html">http://www.allbusiness.com/consumer-products/computing-products-consumer-software/7088694-1.html</a></span><span class="reference-accessdate">. Retrieved 2009-11-03</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Color+it+loud+with+hot+new+Game+Boys%3B+Game+Boy+reflects+players+own+style+with+five+exciting+new+colors&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.allbusiness.com%2Fconsumer-products%2Fcomputing-products-consumer-software%2F7088694-1.html&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-25"><b><a href="#cite_ref-25">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://www.nintendo.co.jp/n02/dmg/hardware/light/index.html">"Nintendo Japan Game Boy Light official homepage"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.nintendo.co.jp/n02/dmg/hardware/light/index.html">http://www.nintendo.co.jp/n02/dmg/hardware/light/index.html</a></span><span class="reference-accessdate">. Retrieved 2009-11-03</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Nintendo+Japan+Game+Boy+Light+official+homepage&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.nintendo.co.jp%2Fn02%2Fdmg%2Fhardware%2Flight%2Findex.html&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-26"><b><a href="#cite_ref-26">^</a></b> <span class="citation web">nintendods (2004-09-29). <a rel="nofollow" class="external text" href="http://nintendods.exblog.jp/381307/">"<span lang="ja" xml:lang="ja">季節報 Nintendo DS ブログ&#160;: 解体新書。初代GBをバラしてみる。</span> (Game Boy hardware dissection)"</a> (in Japanese)<span class="printonly">. <a rel="nofollow" class="external free" href="http://nintendods.exblog.jp/381307/">http://nintendods.exblog.jp/381307/</a></span><span class="reference-accessdate">. Retrieved 2009-01-02</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%3Cspan+lang%3D%22ja+%22+xml%3Alang%3D%22ja+%22%3E%E5%AD%A3%E7%AF%80%E5%A0%B1+Nintendo+DS+%E3%83%96%E3%83%AD%E3%82%B0+%3A+%E8%A7%A3%E4%BD%93%E6%96%B0%E6%9B%B8%E3%80%82%E5%88%9D%E4%BB%A3GB%E3%82%92%E3%83%90%E3%83%A9%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B%E3%80%82%3C%2Fspan%3E%5B%5BCategory%3AArticles+containing+Japanese+language+text%5D%5D+%28Game+Boy+hardware+dissection%29&amp;rft.atitle=&amp;rft.aulast=nintendods&amp;rft.au=nintendods&amp;rft.date=2004-09-29&amp;rft_id=http%3A%2F%2Fnintendods.exblog.jp%2F381307%2F&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-Gameboy_CPU_Manual-27">^ <a href="#cite_ref-Gameboy_CPU_Manual_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gameboy_CPU_Manual_27-1"><sup><i><b>b</b></i></sup></a> <span class="citation web">DP. <a rel="nofollow" class="external text" href="http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf">"GameBoy CPU Manual"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf">http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf</a></span><span class="reference-accessdate">. Retrieved 3 June 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=GameBoy+CPU+Manual&amp;rft.atitle=&amp;rft.aulast=DP&amp;rft.au=DP&amp;rft_id=http%3A%2F%2Fmarc.rawer.de%2FGameboy%2FDocs%2FGBCPUman.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-28"><b><a href="#cite_ref-28">^</a></b> <span class="citation web">Jeff Frohwin. <a rel="nofollow" class="external text" href="http://marc.rawer.de/Gameboy/gameboy1.gif">"Gameboy Internals (CPU Section)"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://marc.rawer.de/Gameboy/gameboy1.gif">http://marc.rawer.de/Gameboy/gameboy1.gif</a></span><span class="reference-accessdate">. Retrieved 2011-06-03</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Gameboy+Internals+%28CPU+Section%29&amp;rft.atitle=&amp;rft.aulast=Jeff+Frohwin&amp;rft.au=Jeff+Frohwin&amp;rft_id=http%3A%2F%2Fmarc.rawer.de%2FGameboy%2Fgameboy1.gif&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-The_Gameboy_Project-29">^ <a href="#cite_ref-The_Gameboy_Project_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Gameboy_Project_29-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-The_Gameboy_Project_29-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-The_Gameboy_Project_29-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-The_Gameboy_Project_29-4"><sup><i><b>e</b></i></sup></a> <span class="citation web">Rawer, Marc. <a rel="nofollow" class="external text" href="http://marc.rawer.de/Gameboy/docu_1.htm#1.1">"The Gameboy Project: 1.1 Technical Details"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://marc.rawer.de/Gameboy/docu_1.htm#1.1">http://marc.rawer.de/Gameboy/docu_1.htm#1.1</a></span><span class="reference-accessdate">. Retrieved 3 June 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+Gameboy+Project%3A+1.1+Technical+Details&amp;rft.atitle=&amp;rft.aulast=Rawer&amp;rft.aufirst=Marc&amp;rft.au=Rawer%2C%26%2332%3BMarc&amp;rft_id=http%3A%2F%2Fmarc.rawer.de%2FGameboy%2Fdocu_1.htm%231.1&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-30"><b><a href="#cite_ref-30">^</a></b> <span class="citation web">GameBoy Development Wiki (2009-11-12). <a rel="nofollow" class="external text" href="http://gbdev.gg8.seindex.php?title=Gameboy_Bootstrap_ROM&amp;oldid=192">"Gameboy Bootstrap ROM"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://gbdev.gg8.seindex.php?title=Gameboy_Bootstrap_ROM&amp;oldid=192">http://gbdev.gg8.seindex.php?title=Gameboy_Bootstrap_ROM&amp;oldid=192</a></span><span class="reference-accessdate">. Retrieved 2010-10-24</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Gameboy+Bootstrap+ROM&amp;rft.atitle=&amp;rft.aulast=GameBoy+Development+Wiki&amp;rft.au=GameBoy+Development+Wiki&amp;rft.date=2009-11-12&amp;rft_id=http%3A%2F%2Fgbdev.gg8.se%2Fwiki%2Findex.php%3Ftitle%3DGameboy_Bootstrap_ROM%26oldid%3D192&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-31"><b><a href="#cite_ref-31">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20080221140919/http://8bitcollective.comindex.php?title=Game_Boy#Sound">"Game Boy - 8bc Chiptune Wiki"</a>. 2008-11-05. Archived from <a rel="nofollow" class="external text" href="http://www.8bitcollective.comindex.php?title=Game_Boy#Sound">the original</a> on 2008-02-21<span class="printonly">. <a rel="nofollow" class="external free" href="http://web.archive.org/web/20080221140919/http://8bitcollective.comindex.php?title=Game_Boy#Sound">http://web.archive.org/web/20080221140919/http://8bitcollective.comindex.php?title=Game_Boy#Sound</a></span><span class="reference-accessdate">. Retrieved 2009-03-26</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Game+Boy+-+8bc+Chiptune+Wiki&amp;rft.atitle=&amp;rft.date=2008-11-05&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20080221140919%2Fhttp%3A%2F%2F8bitcollective.com%2Fwiki%2Findex.php%3Ftitle%3DGame_Boy%23Sound&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-Dimensions-32">^ <a href="#cite_ref-Dimensions_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dimensions_32-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Dimensions_32-2"><sup><i><b>c</b></i></sup></a> <span class="citation web">Amos, Evan (1989). <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/30348074@N00/5439992398/in/set-72157626034398554/">"GameBoy&#160;: User Manual, Page 12"</a>. Nintendo of America<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.flickr.com/photos/30348074@N00/5439992398/in/set-72157626034398554/">http://www.flickr.com/photos/30348074@N00/5439992398/in/set-72157626034398554/</a></span><span class="reference-accessdate">. Retrieved 2011-02-12</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=GameBoy+%3A+User+Manual%2C+Page+12&amp;rft.atitle=&amp;rft.aulast=Amos&amp;rft.aufirst=Evan&amp;rft.au=Amos%2C%26%2332%3BEvan&amp;rft.date=1989&amp;rft.pub=Nintendo+of+America&amp;rft_id=http%3A%2F%2Fwww.flickr.com%2Fphotos%2F30348074%40N00%2F5439992398%2Fin%2Fset-72157626034398554%2F&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-Fruttenboel_Gameboy_Section-33">^ <a href="#cite_ref-Fruttenboel_Gameboy_Section_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fruttenboel_Gameboy_Section_33-1"><sup><i><b>b</b></i></sup></a> <span class="citation web">Fruttenboel Gameboy Section (2009-08-22). <a rel="nofollow" class="external text" href="http://verhoeven272.nl/cgi-bin/FSgz?fruttenboel%2FGameboy&amp;Fruttenboel+Gameboy+section&amp;GBtop&amp;GBspec&amp;GBcontent">"<span lang="eng" xml:lang="eng">GameBoy&#160;: Using the GameBoy skeleton for serious business</span> (Interrupt Descriptions)"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://verhoeven272.nl/cgi-bin/FSgz?fruttenboel%2FGameboy&amp;Fruttenboel+Gameboy+section&amp;GBtop&amp;GBspec&amp;GBcontent">http://verhoeven272.nl/cgi-bin/FSgz?fruttenboel%2FGameboy&amp;Fruttenboel+Gameboy+section&amp;GBtop&amp;GBspec&amp;GBcontent</a></span><span class="reference-accessdate">. Retrieved 2010-03-25</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%3Cspan+lang%3D%22eng+%22+xml%3Alang%3D%22eng+%22%3EGameBoy+%3A+Using+the+GameBoy+skeleton+for+serious+business%3C%2Fspan%3E%5B%5BCategory%3AArticles+containing+explicitly+cited+English+language+text%5D%5D+%28Interrupt+Descriptions%29&amp;rft.atitle=&amp;rft.aulast=Fruttenboel+Gameboy+Section&amp;rft.au=Fruttenboel+Gameboy+Section&amp;rft.date=2009-08-22&amp;rft_id=http%3A%2F%2Fverhoeven272.nl%2Fcgi-bin%2FFSgz%3Ffruttenboel%252FGameboy%26Fruttenboel%2BGameboy%2Bsection%26GBtop%26GBspec%26GBcontent&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+</ol>
+</div>
+<ul>
+<li><span class="citation Journal"><i>Game Boy Compact Video Game System Owner's Manual</i>. <a href="Nintendo" title="Nintendo">Nintendo</a>. 1989. DMG-GB-UKV.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Game+Boy+Compact+Video+Game+System+Owner%27s+Manual&amp;rft.date=1989&amp;rft.pub=%5B%5BNintendo%5D%5D&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Kent, Steven L. (2001). <i>The Ultimate History of Video Games</i> (1st ed.). Roseville, CA: Prima Publishing. <a href="International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="Special:BookSources/0-7615-3643-4" title="Special:BookSources/0-7615-3643-4">0-7615-3643-4</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Ultimate+History+of+Video+Games&amp;rft.aulast=Kent&amp;rft.aufirst=Steven+L.&amp;rft.au=Kent%2C%26%2332%3BSteven+L.&amp;rft.date=2001&amp;rft.edition=1st&amp;rft.place=Roseville%2C+CA&amp;rft.pub=Prima+Publishing&amp;rft.isbn=0-7615-3643-4&amp;rfr_id=info:sid/en.wikipedia.org:Game_Boy"><span style="display: none;">&#160;</span></span></li>
+<li><span><a rel="nofollow" class="external text" href="http://www.google.com/patents?vid=D318884">Hand-held electronic game - Design patent for the case</a></span></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Game_Boy&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text" style="">Wikimedia Commons has media related to: <i><b><a class="external text" href="//commons.wikimedia.orgCategory:Game_Boy">Game Boy</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://gameboy.com/">Official website</a></li>
+<li><a rel="nofollow" class="external text" href="http://web.archive.org/web/20080312035507/http://register.nintendo.com/systemsclassic?type=gb">Game Boy</a> at Nintendo.com (<a rel="nofollow" class="external text" href="http://web.archive.org/web/*/www.nintendo.com/systemsclassic?type=gb">archived versions</a> at the <a href="Digital_time_capsule" title="Digital time capsule" class="mw-redirect">Internet Archive Wayback Machine</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://web.archive.org/web/*/http://www.nintendo.com/doc/dmg_games.pdf">Game Boy (original) games list</a> at Nintendo.com (archived from <a rel="nofollow" class="external text" href="http://web.archive.org/web/20070930050614/http://www.nintendo.com/doc/dmg_games.pdf">the original</a> at the <a href="Digital_time_capsule" title="Digital time capsule" class="mw-redirect">Internet Archive Wayback Machine</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.dmoz.org/Games/Video_Games/Console_Platforms/Nintendo/Game_Boy/">Game Boy</a> at the <a href="Open_Directory_Project" title="Open Directory Project">Open Directory Project</a></li>
+<li><a href="http://www.wikia.comc:nintendo:Game_Boy" class="extiw" title="wikia:nintendo:Game Boy">Game_Boy</a> at Nintendopedia.</li>
+<li><a rel="nofollow" class="external text" href="http://cgame.pp.ua/search/label/Game%20Boy">Game Boy console games</a> Game boy games search</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar" style="">
+<ul>
+<li class="nv-view"><a href="Template:Nintendo_hardware" title="Template:Nintendo hardware"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="Template_talk:Nintendo_hardware" title="Template talk:Nintendo hardware"><span style=";;background:none transparent;border:none;" title="Discuss this template">d</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nintendo_hardware&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="Nintendo_video_game_consoles" title="Nintendo video game consoles">Nintendo video game hardware</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Consoles</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="Color_TV_Game" title="Color TV Game">Color TV Game</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_Entertainment_System" title="Nintendo Entertainment System">NES</a> (<a href="Family_Computer_Disk_System" title="Family Computer Disk System">Disk System</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Famicom_Titler" title="Famicom Titler">Famicom Titler</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Twin_Famicom" title="Twin Famicom">Twin Famicom</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_Entertainment_System_(Model_NES-101)" title="Nintendo Entertainment System (Model NES-101)">NES-101 model</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_M82" title="Nintendo M82">Nintendo M82</a>&#160;<span style="font-weight:bold;">·</span>  <a href="C1_NES_TV" title="C1 NES TV">C1 NES TV</a>)&#160;<span style="font-weight:bold;">·</span>  <a href="Super_Nintendo_Entertainment_System" title="Super Nintendo Entertainment System">Super NES</a> (<a href="Super_Game_Boy" title="Super Game Boy">Super Game Boy</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Satellaview" title="Satellaview">Satellaview</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Super_Nintendo_Entertainment_System_(Model_SNS-101)" title="Super Nintendo Entertainment System (Model SNS-101)">SNES-101</a>&#160;<span style="font-weight:bold;">·</span>  <a href="SF-1_SNES_TV" title="SF-1 SNES TV">SF-1 SNES TV</a>)&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_64" title="Nintendo 64">Nintendo 64</a> (<a href="Nintendo_64DD" title="Nintendo 64DD">64DD</a>&#160;<span style="font-weight:bold;">·</span>  <a href="IQue_Player" title="IQue Player">iQue Player</a>)&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_GameCube" title="Nintendo GameCube">Nintendo GameCube</a> (<a href="Game_Boy_Player" title="Game Boy Player">Game Boy Player</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Panasonic_Q" title="Panasonic Q">Panasonic Q</a>)&#160;<span style="font-weight:bold;">·</span>  <a href="Wii" title="Wii">Wii</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Wii_U" title="Wii U">Wii U</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Handhelds</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="Game_%26_Watch" title="Game &amp; Watch">Game &amp; Watch</a> (<a href="Nintendo_Mini_Classics" title="Nintendo Mini Classics">Mini Classics</a>)&#160;<span style="font-weight:bold;">·</span>  <strong class="selflink">Game Boy</strong> (<a href="Game_Boy#Game_Boy_Pocket" title="Game Boy">Pocket</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Game_Boy#Game_Boy_Light" title="Game Boy">Light</a>)&#160;<span style="font-weight:bold;">·</span>  <a href="Game_Boy_Color" title="Game Boy Color">Game Boy Color</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Virtual_Boy" title="Virtual Boy">Virtual Boy</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a> (<a href="Game_Boy_Advance_SP" title="Game Boy Advance SP">SP</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Game_Boy_Micro" title="Game Boy Micro">Micro</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Visteon_Dockable_Entertainment" title="Visteon Dockable Entertainment">Visteon Dockable Entertainment</a>)&#160;<span style="font-weight:bold;">·</span>  <a href="Pok%C3%A9mon_mini" title="Pokémon mini">Pokémon mini</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_DS" title="Nintendo DS">Nintendo DS</a> (<a href="Nintendo_DS_Lite" title="Nintendo DS Lite">Lite</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_DSi" title="Nintendo DSi">DSi</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_DSi_XL" title="Nintendo DSi XL" class="mw-redirect">DSi XL</a>)&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_3DS" title="Nintendo 3DS">Nintendo 3DS</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Arcade</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="List_of_products_published_by_Nintendo#Arcade" title="List of products published by Nintendo">Early arcade games</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_Vs._System" title="Nintendo Vs. System">Vs. System</a>&#160;<span style="font-weight:bold;">·</span>  <a href="PlayChoice-10" title="PlayChoice-10">PlayChoice-10</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_Super_System" title="Nintendo Super System">Nintendo Super System</a>&#160;<span style="font-weight:bold;">·</span>  <a href="List_of_Sega_arcade_system_boards#Triforce" title="List of Sega arcade system boards">Triforce</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Peripherals</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="Famicom_3D_System" title="Famicom 3D System">3D System</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Famicom_Data_Recorder" title="Famicom Data Recorder">Data Recorder</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Family_BASIC" title="Family BASIC">Family BASIC</a>&#160;<span style="font-weight:bold;">·</span>  <a href="DK_Bongos" title="DK Bongos">DK Bongos</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_e-Reader" title="Nintendo e-Reader">e-Reader</a>&#160;<span style="font-weight:bold;">·</span>  <a href="4-Players_Adaptor" title="4-Players Adaptor">4-Players Adaptor</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Game_Boy_Camera" title="Game Boy Camera">Game Boy Camera</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Game_Boy_Printer" title="Game Boy Printer">Game Boy Printer</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_GameCube%E2%80%93Game_Boy_Advance_cable" title="Nintendo GameCube–Game Boy Advance cable">GameCube–Game Boy Advance cable</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Game_Link_Cable" title="Game Link Cable">Game Link Cable</a>&#160;<span style="font-weight:bold;">·</span>  <a href="NES_Advantage" title="NES Advantage">NES Advantage</a>&#160;<span style="font-weight:bold;">·</span>  <a href="NES_Four_Score" title="NES Four Score">NES Four Score</a>&#160;<span style="font-weight:bold;">·</span>  <a href="NES_Max" title="NES Max">NES Max</a>&#160;<span style="font-weight:bold;">·</span>  <a href="NES_Satellite" title="NES Satellite">NES Satellite</a>&#160;<span style="font-weight:bold;">·</span>  <a href="NES_Zapper" title="NES Zapper">NES Zapper</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_64_controller" title="Nintendo 64 controller">Nintendo 64 controller</a> (<a href="Nintendo_64_accessories" title="Nintendo 64 accessories">accessories</a>)&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_GameCube_controller" title="Nintendo GameCube controller">GameCube controller</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_Power_(cartridge)" title="Nintendo Power (cartridge)">Nintendo Power</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Power_Pad" title="Power Pad">Power Pad</a>&#160;<span style="font-weight:bold;">·</span>  <a href="R.O.B." title="R.O.B.">R.O.B.</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Rumble_Pak" title="Rumble Pak">Rumble Pak</a>&#160;<span style="font-weight:bold;">·</span>  <a href="SNES_Mouse" title="SNES Mouse">SNES Mouse</a>&#160;<span style="font-weight:bold;">·</span>  <a href="SNES_Multitap" title="SNES Multitap">SNES Multitap</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Super_Advantage" title="Super Advantage">Super Advantage</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Super_Scope" title="Super Scope">Super Scope</a>&#160;<span style="font-weight:bold;">·</span>  <a href="WaveBird_Wireless_Controller" title="WaveBird Wireless Controller">WaveBird</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Wii_Balance_Board" title="Wii Balance Board">Wii Balance Board</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Classic_Controller" title="Classic Controller">Classic Controller</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Wii_Remote" title="Wii Remote">Wii Remote</a> (<a href="Wii_MotionPlus" title="Wii MotionPlus">Wii MotionPlus</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Third-party_accessories_for_the_Wii_Remote" title="Third-party accessories for the Wii Remote">Third-party accessories</a>)&#160;<span style="font-weight:bold;">·</span>  <a href="Wii_Speak" title="Wii Speak">Wii Speak</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Wii_U_controller" title="Wii U controller">Wii U controller</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Wii_Zapper" title="Wii Zapper">Wii Zapper</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Technology</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="Game_Pak" title="Game Pak" class="mw-redirect">Game Pak</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_optical_disc" title="Nintendo optical disc">Nintendo optical disc</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_Game_Card" title="Nintendo Game Card">Nintendo Game Card</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Super_FX" title="Super FX">Super FX</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Other</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="Pok%C3%A9mon_Pikachu" title="Pokémon Pikachu">Pokémon Pikachu</a>&#160;<span style="font-weight:bold;">·</span>  <a href="Nintendo_DS_accessories#Pok.C3.A9walker" title="Nintendo DS accessories">Pokéwalker</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar" style="">
+<ul>
+<li class="nv-view"><a href="Template:Dedicated_video_game_handheld_consoles" title="Template:Dedicated video game handheld consoles"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="Template_talk:Dedicated_video_game_handheld_consoles" title="Template talk:Dedicated video game handheld consoles"><span style=";;background:none transparent;border:none;" title="Discuss this template">d</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Dedicated_video_game_handheld_consoles&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="Handheld_game_console" title="Handheld game console">Handheld game consoles</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="Bandai" title="Bandai">Bandai</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="WonderSwan" title="WonderSwan">WonderSwan</a>
+<ul>
+<li><a href="WonderSwan#WonderSwan_Color" title="WonderSwan">WonderSwan Color</a></li>
+<li><a href="WonderSwan#SwanCrystal" title="WonderSwan">SwanCrystal</a></li>
+</ul>
+</li>
+<li><a href="Tamagotchi" title="Tamagotchi">Tamagotchi</a></li>
+<li><a href="Digimon_virtual_pet" title="Digimon virtual pet" class="mw-redirect">Digimon virtual pet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="Entex_Industries" title="Entex Industries">Entex</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="Entex_Select-A-Game" title="Entex Select-A-Game">Select-A-Game</a></li>
+<li><a href="Entex_Adventure_Vision" title="Entex Adventure Vision">Adventurevision</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="Game_Park" title="Game Park">Game Park</a>/<a href="GamePark_Holdings" title="GamePark Holdings">Holdings</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="GP32" title="GP32">GP32</a></li>
+<li><a href="GP2X" title="GP2X">GP2X</a></li>
+<li><a href="XGP" title="XGP">XGP</a> (never released)</li>
+<li><a href="GP2X_Wiz" title="GP2X Wiz">GP2X Wiz</a></li>
+<li><a href="GP2X_Caanoo" title="GP2X Caanoo" class="mw-redirect">GP2X Caanoo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="Nintendo" title="Nintendo">Nintendo</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="Game_%26_Watch" title="Game &amp; Watch">Game &amp; Watch</a>
+<ul>
+<li><a href="Nintendo_Mini_Classics" title="Nintendo Mini Classics">Mini Classics</a></li>
+</ul>
+</li>
+<li><strong class="selflink">Game Boy</strong>
+<ul>
+<li><a href="Game_Boy#Game_Boy_Pocket" title="Game Boy">Pocket</a></li>
+<li><a href="Game_Boy#Game_Boy_Light" title="Game Boy">Light</a></li>
+</ul>
+</li>
+<li><a href="Game_Boy_Color" title="Game Boy Color">Game Boy Color</a></li>
+<li><a href="Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a>
+<ul>
+<li><a href="Game_Boy_Advance_SP" title="Game Boy Advance SP">SP</a></li>
+<li><a href="Game_Boy_Micro" title="Game Boy Micro">Micro</a></li>
+<li><a href="Visteon_Dockable_Entertainment" title="Visteon Dockable Entertainment">Visteon Dockable Entertainment</a></li>
+</ul>
+</li>
+<li><a href="Pok%C3%A9mon_mini" title="Pokémon mini">Pokémon mini</a></li>
+<li><a href="Nintendo_DS" title="Nintendo DS">Nintendo DS</a>
+<ul>
+<li><a href="Nintendo_DS_Lite" title="Nintendo DS Lite">Lite</a></li>
+<li><a href="Nintendo_DSi" title="Nintendo DSi">DSi</a></li>
+<li><a href="Nintendo_DSi_XL" title="Nintendo DSi XL" class="mw-redirect">DSi XL</a></li>
+</ul>
+</li>
+<li><a href="Nintendo_3DS" title="Nintendo 3DS">Nintendo 3DS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="Nokia" title="Nokia">Nokia</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="N-Gage" title="N-Gage">N-Gage</a></li>
+<li><a href="N-Gage_QD" title="N-Gage QD">N-Gage QD</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="Sega" title="Sega">Sega</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="Sega_Game_Gear" title="Sega Game Gear">Game Gear</a></li>
+<li><a href="Sega_Nomad" title="Sega Nomad">Nomad</a></li>
+<li><a href="VMU" title="VMU">VMU</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="SNK_Playmore" title="SNK Playmore">SNK</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="Neo_Geo_Pocket" title="Neo Geo Pocket">Neo Geo Pocket</a></li>
+<li><a href="Neo_Geo_Pocket_Color" title="Neo Geo Pocket Color">Neo Geo Pocket Color</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="Sony" title="Sony">Sony</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="PocketStation" title="PocketStation">PocketStation</a></li>
+<li><a href="PlayStation_Portable" title="PlayStation Portable">PlayStation Portable</a>
+<ul>
+<li><a href="PlayStation_Portable_Slim_%26_Lite_series" title="PlayStation Portable Slim &amp; Lite series">Slim and Lite</a></li>
+<li><a href="PlayStation_Portable_Slim_%26_Lite_series#PSP-3000" title="PlayStation Portable Slim &amp; Lite series">PSP-3000</a></li>
+<li><a href="PSP_Go" title="PSP Go">PSP Go</a></li>
+</ul>
+</li>
+<li><a href="PlayStation_Vita" title="PlayStation Vita">PlayStation Vita</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Other handhelds</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">1970s</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="Microvision" title="Microvision">Microvision</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">1980s</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="Nelsonic_Industries#Game_Watches" title="Nelsonic Industries">Nelsonic Game Watch</a></li>
+<li><a href="Elektronika#Electronic_toys" title="Elektronika">Elektronika IM</a></li>
+<li><a href="Epoch_Game_Pocket_Computer" title="Epoch Game Pocket Computer">Epoch Game Pocket Computer</a></li>
+<li><a href="Atari_Lynx" title="Atari Lynx">Atari Lynx</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">1990s</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="TurboExpress" title="TurboExpress">TurboExpress</a></li>
+<li><a href="Hartung_Game_Master" title="Hartung Game Master">Hartung Game Master</a></li>
+<li><a href="Gamate" title="Gamate">Gamate</a></li>
+<li><a href="Watara_Supervision" title="Watara Supervision">Watara Supervision</a></li>
+<li><a href="Mega_Duck" title="Mega Duck">Mega Duck</a></li>
+<li><a href="Game.com" title="Game.com">Game.com</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">2000s</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="Tapwave_Zodiac" title="Tapwave Zodiac">Tapwave Zodiac</a></li>
+<li><a href="GameKing" title="GameKing">GameKing I, II, and III</a></li>
+<li><a href="Leapster" title="Leapster">Leapster</a></li>
+<li><a href="Gizmondo" title="Gizmondo">Gizmondo</a></li>
+<li><a href="V.Smile#V.Smile_Pocket_and_V.Smile_Cyber_Pocket" title="V.Smile">V-Smile Pocket</a></li>
+<li><a href="Dingoo" title="Dingoo" class="mw-redirect">Dingoo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">2010s</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="Pandora_(console)" title="Pandora (console)">Pandora</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div>
+<ul>
+<li><a href="Handheld_electronic_game" title="Handheld electronic game">Early units</a></li>
+<li><a href="Comparison_of_handheld_game_consoles" title="Comparison of handheld game consoles">Comparison</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 22966/1000000
+Post-expand include size: 198722/2048000 bytes
+Template argument size: 81885/2048000 bytes
+Expensive parser function count: 2/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5591552-0!*!0!!en!4!* and timestamp 20120219004110 generated by srv261 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Game_Boy&amp;oldid=477632505">http://en.wikipedia.org/w/index.php?title=Game_Boy&amp;oldid=477632505</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="Category:1989_introductions" title="Category:1989 introductions">1989 introductions</a></li><li><a href="Category:Game_Boy_consoles" title="Category:Game Boy consoles">Game Boy consoles</a></li><li><a href="Category:Monochrome_video_game_consoles" title="Category:Monochrome video game consoles">Monochrome video game consoles</a></li><li><a href="Category:Regionless_game_consoles" title="Category:Regionless game consoles">Regionless game consoles</a></li><li><a href="Category:Fourth-generation_video_game_consoles" title="Category:Fourth-generation video game consoles">Fourth-generation video game consoles</a></li><li><a href="Category:National_Toy_Hall_of_Fame_inductees" title="Category:National Toy Hall of Fame inductees">National Toy Hall of Fame inductees</a></li><li><a href="Category:Handheld_game_consoles" title="Category:Handheld game consoles">Handheld game consoles</a></li><li><a href="Category:Z80" title="Category:Z80">Z80</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="Category:Articles_containing_Japanese_language_text" title="Category:Articles containing Japanese language text">Articles containing Japanese language text</a></li><li><a href="Category:Articles_containing_explicitly_cited_English_language_text" title="Category:Articles containing explicitly cited English language text">Articles containing explicitly cited English language text</a></li><li><a href="Category:Articles_needing_additional_references_from_May_2011" title="Category:Articles needing additional references from May 2011">Articles needing additional references from May 2011</a></li><li><a href="Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Game+Boy" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="Game_Boy"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="Talk:Game_Boy"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="Game_Boy" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Game_Boy&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Game_Boy&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4" alt="Search" /></button>					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//wikimediafoundation.orgSpecial:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="Special:WhatLinksHere/Game_Boy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/Game_Boy" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Game_Boy&amp;oldid=477632505" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Game_Boy&amp;id=477632505" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Game+Boy" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Game+Boy&amp;oldid=477632505&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Game_Boy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org%D8%AC%D9%8A%D9%85_%D8%A8%D9%88%D9%8A">العربية</a></li>
+			<li class="interwiki-bs"><a href="//bs.wikipedia.orgGame_Boy">Bosanski</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.orgGame_Boy">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.orgGame_Boy">Česky</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.orgGame_Boy">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.orgGame_Boy">Deutsch</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.orgGame_Boy">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.orgGame_Boy">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.orgGame_Boy">Esperanto</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org%DA%AF%DB%8C%D9%85_%D8%A8%D9%88%DB%8C">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.orgGame_Boy">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.orgGame_Boy">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org%EA%B2%8C%EC%9E%84%EB%B3%B4%EC%9D%B4">한국어</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.orgGame_Boy">Hrvatski</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.orgGame_Boy">Bahasa Indonesia</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.orgGame_Boy">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.orgGame_Boy">Italiano</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.orgGame_Boy">Қазақша</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.orgGame_Boy">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.orgGame_Boy">Magyar</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.orgGame_Boy">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.orgGame_Boy">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.orgGame_Boy">‪Norsk (bokmål)‬</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.orgGame_Boy">‪Norsk (nynorsk)‬</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.orgGame_Boy_(konsola)">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.orgGame_Boy">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.orgGame_Boy">Română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.orgGame_Boy">Русский</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.orgGame_Boy">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.orgGame_Boy">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.orgGame_Boy">Slovenščina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.orgGejm_boj">Српски / Srpski</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.orgGame_Boy">Srpskohrvatski / Српскохрватски</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.orgGame_Boy">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.orgGame_Boy">Svenska</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%9A%E0%B8%AD%E0%B8%A2">ไทย</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.orgGame_Boy">Türkçe</a></li>
+			<li class="interwiki-zh-yue"><a href="//zh-yue.wikipedia.orgGame_Boy">粵語</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.orgGame_Boy">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 February 2012 at 00:41.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.orgWikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.orgTerms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.orgWikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.orgPrivacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href='/w/index.php?title=Game_Boy&amp;useformat=mobile' class='noprint'>Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.gadget.wmfFR2011Style", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch", "ext.UserBuckets", "ext.articleFeedback.startup", "ext.articleFeedbackv5.startup", "ext.markAsHelpful"]);
+}
+</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
+	"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-mySandbox":1,"gadget-wmfFR2011Style":1});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: enwiki:resourceloader:filter:minify-js:4:66a568c26ff67d7e55cbec9a00b41f09 */
+}
+</script><script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by srv261 in 0.051 secs. -->
+	</body>
+</html>

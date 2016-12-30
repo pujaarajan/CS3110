@@ -1,0 +1,18 @@
+Summarize your solution
+-----------------------
+
+* What was your approach to solving the assignment?
+* Are there any known bugs in your solution?
+
+Feedback on the assignment
+--------------------------
+
+* What was fun about the assignment?
+* What did you find especially hard?
+* How could the assignment be made more valuable?
+
+Karma
+-----
+
+* What, if any, karma functionality did you implement?
+* How can the grader access that functionality and test it?

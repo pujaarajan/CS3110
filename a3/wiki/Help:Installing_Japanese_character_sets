@@ -1,0 +1,496 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Help:Installing Japanese character sets - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.18wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.config.set({"wgCanonicalNamespace": "Help", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 12, "wgPageName": "Help:Installing_Japanese_character_sets", "wgTitle": "Installing Japanese character sets", "wgCurRevisionId": 473225398, "wgArticleId": 23405670, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Wikipedia multilingual support", "Wikipedia how-to"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "wgTrackingToken": "2f17d8da4653979ac26707d8556a4467", "wikilove-recipient": "", "wikilove-edittoken": "+\\", "wikilove-anon": 0, "mbEmailEnabled": true, "mbUserEmail": false, "mbIsEmailConfirmationPending": false, "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+}
+</script><script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.18/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-12 ns-subject page-Help_Installing_Japanese_character_sets action-view skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Help:Installing Japanese character sets</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div lang="en" dir="ltr" class="mw-content-ltr"><div style="position: relative; top: -3em;"><span id="WP:HIJCS"></span></div>
+<table class="shortcutbox noprint" style="float: right; border: 1px solid #aaa; background: #fff; margin: .3em .3em .3em 1em; padding: 3px; text-align: center;">
+<tr>
+<th style="border: none; background: transparent;" class="plainlist"><small><a href="Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>:</small>
+<ul>
+<li><small><a href="Wikipedia:HIJCS" title="Wikipedia:HIJCS" class="mw-redirect">WP:HIJCS</a></small></li>
+</ul>
+</th>
+</tr>
+</table>
+<p>This help page will help you <b>install Japanese character sets</b> so that your computer will display them properly on the internet in your <a href="Web_browser" title="Web browser">web browser</a> as all modern <a href="Operating_system" title="Operating system">operating systems</a> and web browsers support Japanese fonts. Throughout <a href="Wikipedia" title="Wikipedia">Wikipedia</a>, <a href="Japanese_writing_system" title="Japanese writing system">Japanese characters</a> are used in many different articles. Many computers with <a href="English_language" title="English language">English</a> or other Western operating systems do not show them by default, but most require a minimal amount of work to install or activate the capability.</p>
+<table cellspacing="0" cellpadding="0" style="clear: right; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: auto;">
+<tr>
+<td>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Note"><span class="tocnumber">1</span> <span class="toctext">Note</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Examples"><span class="tocnumber">1.1</span> <span class="toctext">Examples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Specific_operating_systems"><span class="tocnumber">2</span> <span class="toctext">Specific operating systems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Arch_Linux"><span class="tocnumber">2.1</span> <span class="toctext">Arch Linux</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Debian_GNU.2FLinux_and_Ubuntu"><span class="tocnumber">2.2</span> <span class="toctext">Debian GNU/Linux and Ubuntu</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Fedora"><span class="tocnumber">2.3</span> <span class="toctext">Fedora</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#FreeBSD"><span class="tocnumber">2.4</span> <span class="toctext">FreeBSD</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Gentoo_GNU.2FLinux"><span class="tocnumber">2.5</span> <span class="toctext">Gentoo GNU/Linux</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Mac_OS_X"><span class="tocnumber">2.6</span> <span class="toctext">Mac OS X</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Mandriva_Linux_2007"><span class="tocnumber">2.7</span> <span class="toctext">Mandriva Linux 2007</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#OpenSUSE_11.4"><span class="tocnumber">2.8</span> <span class="toctext">OpenSUSE 11.4</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Unicode_Japanese_fonts"><span class="tocnumber">2.9</span> <span class="toctext">Unicode Japanese fonts</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Windows"><span class="tocnumber">2.10</span> <span class="toctext">Windows</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#95.2C_98.2C_ME_and_NT"><span class="tocnumber">2.10.1</span> <span class="toctext">95, 98, ME and NT</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#XP_and_Server_2003"><span class="tocnumber">2.10.2</span> <span class="toctext">XP and Server 2003</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Vista_and_Windows_7"><span class="tocnumber">2.10.3</span> <span class="toctext">Vista and Windows 7</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=1" title="Edit section: Note">edit</a>]</span> <span class="mw-headline" id="Note">Note</span></h2>
+<p>If you came here by clicking the <sup>?</sup> near some Japanese characters (called <i><a href="Kanji" title="Kanji">kanji</a></i> or <i><a href="Kana" title="Kana">kana</a></i>), here is an explanation of how the Japanese is formatted with the English and <a href="R%C5%8Dmaji" title="Rōmaji" class="mw-redirect">Romanization</a>. When Japanese is included in an article on Wikipedia, it is almost always placed within a template which helps to standardize the appearance of the Japanese characters, as well as the translation and Romanization of those characters. If you look at the code of the page (by clicking on the Edit tab at the top of the page or on the Edit link for that particular section), you will see something like what appears on the <b>Code</b> line in the following table:</p>
+<table class="wikitable">
+<tr>
+<td><b>Code</b></td>
+<td><code>{{Nihongo|English|Kanji|Rōmaji|extra|extra2}}</code></td>
+</tr>
+<tr>
+<td><b>Gives</b></td>
+<td>English <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja" xml:lang="ja">Kanji</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Rōmaji</i><span class="t_nihongo_help noprint"><sup><strong class="selflink"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></strong></sup></span>, extra) extra2</span></td>
+</tr>
+</table>
+<p>This template marks the <code>Kanji</code> segment as being in Japanese Kanji, which helps web browsers and other user agents to display it correctly. The template uses the following parameters</p>
+<ul>
+<li><i>English</i>. Optional. The word as translated into English. Note that this will sometimes be the actual Japanese word due to it being adopted into English.</li>
+<li><i>Kanji/Kana</i>. Required. The word in Japanese kanji and/or kana, the logographic writing system.</li>
+<li><i>Romaji</i>. Optional. The word in Japanese Romaji, the Romanized syllabic writing system used for foreign words. Also known as a "transliteration".</li>
+<li><i>extra</i>. Optional. Can also be expressed as a named parameter, <code>extra=</code></li>
+<li><i>extra2</i>. Optional. Can also be expressed as a named parameter, <code>extra2=</code>. It is only useful in ";" definitions (extra2 will be displayed without bold, whereas text following the template will get the bold).</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=2" title="Edit section: Examples">edit</a>]</span> <span class="mw-headline" id="Examples">Examples</span></h3>
+<p>Regular use:</p>
+<table class="wikitable">
+<tr>
+<td><b>Code</b></td>
+<td><code>{{Nihongo|English|英語|eigo}}</code></td>
+</tr>
+<tr>
+<td><b>Gives</b></td>
+<td>English <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja" xml:lang="ja">英語</span><span class="t_nihongo_comma" style="display:none">,</span> <i>eigo</i><span class="t_nihongo_help noprint"><sup><strong class="selflink"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></strong></sup></span>)</span></td>
+</tr>
+</table>
+<p>Without <code>English</code>:</p>
+<table class="wikitable">
+<tr>
+<td><b>Code</b></td>
+<td><code>{{Nihongo||英語|eigo}}</code></td>
+</tr>
+<tr>
+<td><b>Gives</b></td>
+<td><i>eigo</i> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja" xml:lang="ja">英語</span><span class="t_nihongo_help noprint"><sup><strong class="selflink"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></strong></sup></span>)</span></td>
+</tr>
+</table>
+<p>With <code>extra2</code>:</p>
+<table class="wikitable">
+<tr>
+<td><b>Code</b></td>
+<td>
+<p><code>; {{Nihongo||虚無僧|komusō|extra2="Priest of nothingness"}}</code><br />
+<code>: Mendicant priest of the Fuke sect of Zen Buddhism.</code></p>
+</td>
+</tr>
+<tr>
+<td><b>Gives</b></td>
+<td>
+<dl>
+<dt><i>komusō</i> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja" xml:lang="ja">虚無僧</span><span class="t_nihongo_help noprint"><sup><strong class="selflink"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></strong></sup></span>) "Priest of nothingness"</span></dt>
+<dd>Mendicant priest of the Fuke sect of Zen Buddhism.</dd>
+</dl>
+</td>
+</tr>
+</table>
+<p>Without <code>extra2</code>:</p>
+<table class="wikitable">
+<tr>
+<td><b>Code</b></td>
+<td>
+<p><code>; {{Nihongo||虚無僧|komusō}} "Priest of nothingness"</code><br />
+<code>: Mendicant priest of the Fuke sect of Zen Buddhism.</code></p>
+</td>
+</tr>
+<tr>
+<td><b>Gives</b></td>
+<td>
+<dl>
+<dt><i>komusō</i> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja" xml:lang="ja">虚無僧</span><span class="t_nihongo_help noprint"><sup><strong class="selflink"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></strong></sup></span>)</span> "Priest of nothingness"</dt>
+<dd>Mendicant priest of the Fuke sect of Zen Buddhism.</dd>
+</dl>
+</td>
+</tr>
+</table>
+<p>If you have questions regarding Japanese characters or the use of this template, please post your question on the <a href="Wikipedia_talk:JA" title="Wikipedia talk:JA" class="mw-redirect">talk page of WikiProject Japan</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=3" title="Edit section: Specific operating systems">edit</a>]</span> <span class="mw-headline" id="Specific_operating_systems">Specific operating systems</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=4" title="Edit section: Arch Linux">edit</a>]</span> <span class="mw-headline" id="Arch_Linux">Arch Linux</span></h3>
+<dl>
+<dd><code>sudo pacman -S ttf-sazanami</code></dd>
+</dl>
+<h3><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=5" title="Edit section: Debian GNU/Linux and Ubuntu">edit</a>]</span> <span class="mw-headline" id="Debian_GNU.2FLinux_and_Ubuntu">Debian GNU/Linux and Ubuntu</span></h3>
+<p>Installing the <i>ttf-takao-mincho</i> package will add support for displaying Japanese text in the Debian GNU/Linux or Ubuntu distribution. You can do this with one of the following commands:</p>
+<dl>
+<dd><code>sudo apt-get install ttf-takao-mincho</code></dd>
+<dd><code>su -c 'aptitude install -P ttf-takao-mincho'</code></dd>
+</dl>
+<p>More fonts can be installed with this command:</p>
+<dl>
+<dd><code>sudo apt-get install ttf-takao</code></dd>
+</dl>
+<h3><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=6" title="Edit section: Fedora">edit</a>]</span> <span class="mw-headline" id="Fedora">Fedora</span></h3>
+<p>Install the appropriate ttfonts packages.</p>
+<p>For Fedora Core 3, the packages are <i>ttfonts-zh_TW</i> (traditional Chinese), <i>ttfonts-zh_CN</i> (simplified Chinese), <i>ttfonts-ja</i> (Japanese) and <i>ttfonts-ko</i> (Korean). For example,</p>
+<dl>
+<dd>yum install ttfonts-ja</dd>
+</dl>
+<p>As of Fedora Core 4, you need <i>fonts-chinese</i>, <i>fonts-japanese</i> and/or <i>fonts-korean</i>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=7" title="Edit section: FreeBSD">edit</a>]</span> <span class="mw-headline" id="FreeBSD">FreeBSD</span></h3>
+<p>With X.Org 7.x and above, install the package <i>x11-fonts/font-jis-misc</i>:</p>
+<dl>
+<dd>pkg_add -r font-jis-misc-1.0.0.tbz</dd>
+</dl>
+<p>Please note that the package version may be different. Alternatively, this can be easily accomplished by installing from the ports tree:</p>
+<dl>
+<dd>cd /usr/ports/x11-fonts/font-jis-misc &amp;&amp; make install clean</dd>
+</dl>
+<h3><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=8" title="Edit section: Gentoo GNU/Linux">edit</a>]</span> <span class="mw-headline" id="Gentoo_GNU.2FLinux">Gentoo GNU/Linux</span></h3>
+<p>Install a Japanese font package, for example one of these:</p>
+<dl>
+<dd>emerge media-fonts/sazanami</dd>
+<dd>emerge media-fonts/mikachan-font-otf</dd>
+</dl>
+<h3><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=9" title="Edit section: Mac OS X">edit</a>]</span> <span class="mw-headline" id="Mac_OS_X">Mac OS X</span></h3>
+<p>By default, all necessary fonts and software are installed in <a href="Mac_OS_X" title="Mac OS X">Mac OS X</a> <a href="Mac_OS_X_v10.2" title="Mac OS X v10.2">10.2 Jaguar</a> (<a href="2002" title="2002">2002</a>) and higher.</p>
+<p>For Mac OS X 10.1 <a href="Multilingual" title="Multilingual" class="mw-redirect">multilingual</a> software updates are available as free downloads from Apple's website. The Asian Language Update will install support for Chinese, Japanese and Korean.</p>
+<dl>
+<dd><a rel="nofollow" class="external text" href="http://docs.info.apple.com/article.html?artnum=120063">Mac OS X Language Support Updates at apple.com</a></dd>
+</dl>
+<h3><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=10" title="Edit section: Mandriva Linux 2007">edit</a>]</span> <span class="mw-headline" id="Mandriva_Linux_2007">Mandriva Linux 2007</span></h3>
+<p>Install one or several Japanese font packages. The most common is <i>fonts-ttf-japanese</i>, but in addition you can also install <i>fonts-ttf-japanese-extra</i>, <i>fonts-ttf-japanese-ipamona</i> and <i>fonts-ttf-japanese-mplus_ipagothic</i>.</p>
+<p>Make sure you have UTF-8 fonts enabled, as they may not be if you have upgraded from a former version of Mandrake/Mandriva.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=11" title="Edit section: OpenSUSE 11.4">edit</a>]</span> <span class="mw-headline" id="OpenSUSE_11.4">OpenSUSE 11.4</span></h3>
+<p>By default, the Japanese fonts are installed during the DVD standard install.</p>
+<p>If additional Japanese fonts or Japanese language input is needed, the installation of additional packages is required.</p>
+<p>In order to install those packages, follow the step-by-step instructions below:</p>
+<ol>
+<li>Open the YaST Control Center.</li>
+<li>Select System on the left panel, and then select Language (Blue flag Icon) on the right panel. -A new separate window will open-</li>
+<li>On the Language window scroll down the "Secondary Languages" list and mark down "Japanese"</li>
+<li>Click the OK button on the down-right corner. -The installation of the necessary packages for Japanese language support will begin-</li>
+</ol>
+<p>Once the installation is performed a reboot is required in order to use the new language settings. This method is also valid to install support for any other language.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=12" title="Edit section: Unicode Japanese fonts">edit</a>]</span> <span class="mw-headline" id="Unicode_Japanese_fonts">Unicode Japanese fonts</span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.wazu.jp/gallery/Fonts_Japanese.html">List of free Japanese fonts</a></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=13" title="Edit section: Windows">edit</a>]</span> <span class="mw-headline" id="Windows">Windows</span></h3>
+<h4><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=14" title="Edit section: 95, 98, ME and NT">edit</a>]</span> <span class="mw-headline" id="95.2C_98.2C_ME_and_NT">95, 98, ME and NT</span></h4>
+<p>Your system should offer to download Asian <a href="Font" title="Font">fonts</a> by default while viewing pages in those languages, just as long as you're using <a href="Internet_Explorer" title="Internet Explorer">Internet Explorer</a>. <a rel="nofollow" class="external autonumber" href="http://www.socalgas.com/ch/installfont_en.shtml">[1]</a></p>
+<p>Otherwise, update your system manually with the <a rel="nofollow" class="external text" href="http://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=803A623E-C311-4591-A593-B0E24A6F38E8">language support packs</a>.</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=15" title="Edit section: XP and Server 2003">edit</a>]</span> <span class="mw-headline" id="XP_and_Server_2003">XP and Server 2003</span></h4>
+<p>A Windows CD-ROM is needed while installing support for East Asian languages, even if it's not the one used during installation (Non-East Asian localizations only, as those from East Asia install Japanese support natively).</p>
+<p>Alternatively, you can <a rel="nofollow" class="external text" href="http://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=24a66277-cd9f-4332-a6f1-52b85a6470bd">download the Japanese language pack by itself</a> from Microsoft. No disc is needed for this option.</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=16" title="Edit section: Vista and Windows 7">edit</a>]</span> <span class="mw-headline" id="Vista_and_Windows_7">Vista and Windows 7</span></h4>
+<p>Both <a href="Windows_Vista" title="Windows Vista">Vista</a> and <a href="Windows_7" title="Windows 7">Windows 7</a> include native <a href="Operating_System" title="Operating System" class="mw-redirect">OS</a> support for displaying Japanese text by default. In order to input Japanese on a non-Japanese version of the OS, however, the Japanese <a href="Input_method_editor" title="Input method editor" class="mw-redirect">input method editor</a> must be enabled from the <i>Region and Language</i> (Windows 7) or <i>Regional and Language Options</i> (Vista) section of the Control Panel.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="Help:Japanese" title="Help:Japanese">Help:Japanese</a></li>
+<li><a href="Help:Multilingual_support_(East_Asian)" title="Help:Multilingual support (East Asian)">Help:Multilingual support (East Asian)</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1370/1000000
+Post-expand include size: 6885/2048000 bytes
+Template argument size: 756/2048000 bytes
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23405670-0!*!0!!en!*!* and timestamp 20120130030818 generated by srv244 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Help:Installing_Japanese_character_sets&amp;oldid=473225398">http://en.wikipedia.org/w/index.php?title=Help:Installing_Japanese_character_sets&amp;oldid=473225398</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="Category:Wikipedia_multilingual_support" title="Category:Wikipedia multilingual support">Wikipedia multilingual support</a></li><li><a href="Category:Wikipedia_how-to" title="Category:Wikipedia how-to">Wikipedia how-to</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Help%3AInstalling+Japanese+character+sets" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-help" class="selected"><span><a href="Help:Installing_Japanese_character_sets"  title="View the help page [c]" accesskey="c">Help page</a></span></li>
+					<li  id="ca-talk"><span><a href="Help_talk:Installing_Japanese_character_sets"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="Help:Installing_Japanese_character_sets" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4" alt="Search" /></button>					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//wikimediafoundation.orgSpecial:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="Special:WhatLinksHere/Help:Installing_Japanese_character_sets" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/Help:Installing_Japanese_character_sets" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;oldid=473225398" title="Permanent link to this revision of the page">Permanent link</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Help%3AInstalling+Japanese+character+sets" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Help%3AInstalling+Japanese+character+sets&amp;oldid=473225398&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Help:Installing_Japanese_character_sets&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-bs"><a href="//bs.wikipedia.orgPomo%C4%87:Japanski_jezik">Bosanski</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org%D0%9F%D0%BE%D0%BC%D0%BE%D1%9B:%D0%88%D0%B0%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA">Српски / Srpski</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 25 January 2012 at 21:37.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.orgWikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.orgTerms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.orgWikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.orgPrivacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href='/w/index.php?title=Help:Installing_Japanese_character_sets&amp;useformat=mobile' class='noprint'>Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.gadget.wmfFR2011Style", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch", "ext.UserBuckets", "ext.articleFeedback.startup", "ext.articleFeedbackv5.startup", "ext.markAsHelpful"]);
+}
+</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
+	"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-mySandbox":1,"gadget-wmfFR2011Style":1});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: enwiki:resourceloader:filter:minify-js:4:66a568c26ff67d7e55cbec9a00b41f09 */
+}
+</script><script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by srv286 in 0.054 secs. -->
+	</body>
+</html>
